@@ -1,0 +1,1769 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Attributes - CK3 Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Attributes","wgTitle":"Attributes","wgCurRevisionId":11492,"wgRevisionId":11492,"wgArticleId":1136,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["1.2","Character"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Attributes","wgRelevantArticleId":1136,"wgRequestId":"2796d716c4e5f627f3b862fb","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgWikiEditorEnabledModules":[],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgPostEdit":"saved"});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchSuggest","mmv.head","mmv.bootstrap.autostart","ext.lazyload","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/index.php?title=Attributes&amp;action=edit"/>
+<link rel="edit" title="Edit" href="/index.php?title=Attributes&amp;action=edit"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="CK3 Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://ck3.paradoxwikis.com/api.php?action=rsd"/>
+<link rel="license" href="https://central.paradoxwikis.com/Central:Copyrights"/>
+<link rel="alternate" type="application/atom+xml" title="CK3 Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Attributes rootpage-Attributes skin-vector action-view">
+        <div class="pdx_mainNavBar ts-container" id="mw-header-container">
+            <div class="ts-inner" id="mw-header">
+                <div class="pd_menuTrigger">
+                    <div class="p-nav-menuTrigger">
+                        <div class="menu-icon">
+                            <div class="menu-icon__bar"></div>
+                            <div class="menu-icon__bar"></div>
+                            <div class="menu-icon__bar"></div>
+                        </div>
+                        <i class="pd-logo-icon uix_logoIcon"></i>
+                    </div>
+                    <div class="pd_nav">
+                        <div 0="class" 1="header-menu__navigation content">
+                            <div 0="class" 1="navigation-menu nav-active" id="header-menu">
+                                <div class="navigation-menu__list">
+                                    <div class="navigation-menu__section">
+                                        <div class="navigation-menu__section-items-container">
+                                            <a class="navigation-menu__section-item" href="https://forum.paradoxplaza.com/forum/forums/">Forum list</a>
+                                            <a class="navigation-menu__section-item" href="https://forum.paradoxplaza.com/forum/threads/trending">Trending</a>
+                                            <a class="navigation-menu__section-item" href="https://forum.paradoxplaza.com/forum/threads/latest">Latest</a>
+                                            <a class="navigation-menu__section-item" href="https://forum.paradoxplaza.com/forum/threads/newest">New posts</a>
+                                        </div>
+                                    </div>
+                                    <div class="content-asset">
+                                        <div class="navigation-menu__section">
+                                            <div class="navigation-menu__section-title">Paradox</div>
+                                            <div class="navigation-menu__section-items-container">
+                                                <div class="navigation-menu__section-items-container">
+                                                    <a class="navigation-menu__section-item" href="https://www.paradoxplaza.com/">Store</a>
+                                                    <a class="navigation-menu__section-item" href="https://mods.paradoxplaza.com/">Mods</a>
+                                                    <a class="navigation-menu__section-item" href="https://forum.paradoxplaza.com/forum/forums/">Forum</a>
+                                                    <a class="navigation-menu__section-item" href="https://play.paradoxplaza.com/">Launcher</a>
+                                                    <a class="navigation-menu__section-item" href="https://pdxcon.paradoxplaza.com/?utm_source=pdxplaza-owned&amp;utm_medium=web-owned&amp;utm_content=topmenu-banner&amp;utm_campaign=pc18_pdxcon_20190412_cawe_ann">PDXCON 2019</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="p-header-logo p-header-logo--image">
+                        <a class="uix_logo" href="/">
+                            <div class="uix_logo--text">
+                                <span>Paradox Wikis</span>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="pdx_siteToggle pdx_hasDropdown">
+                    <div class="pdx_siteToggle__trigger pdx_dropdownTrigger"><span><div class="mw-parser-output"><p>CK3 Wiki
+</p></div></span><i></i></div>
+                    <div class="pdx_dropdown pdx_dropdown--extraLarge">
+                        <div class="pdx_gameChanger">
+                            <div class="pdx_gameChanger__title">Active Wikis</div>
+                            <div class="pdx_dropdown__menuList pdx_dropdown__menuList pdx_dropdown__menuList--columns">
+                                <a href="https://eos.paradoxwikis.com/Empire_of_Sin_Wiki" class="pdx_menu__link pdx_gameChanger--eos">Empire of Sin</a>
+                                <a href="https://aowplanetfall.paradoxwikis.com/AoW_Planetfall_Wiki" class="pdx_menu__link pdx_gameChanger--planetfall">AoW: Planetfall</a>
+                                <a href="https://skylines.paradoxwikis.com/Cities:_Skylines_Wiki" class="pdx_menu__link pdx_gameChanger--skylines">Cities: Skylines</a>
+                                <a href="https://ck3.paradoxwikis.com/Crusader_Kings_III_Wiki" class="pdx_menu__link pdx_gameChanger--ck3">Crusader Kings 3</a>
+                                <a href="https://eu4.paradoxwikis.com/Europa_Universalis_4_Wiki" class="pdx_menu__link pdx_gameChanger--eu4">Europa Universalis 4</a>
+                                <a href="https://hoi4.paradoxwikis.com/Hearts_of_Iron_4_Wiki" class="pdx_menu__link pdx_gameChanger--hi4">Hearts of Iron 4</a>
+                                <a href="https://imperator.paradoxwikis.com/Imperator_Wiki" class="pdx_menu__link pdx_gameChanger--improme">Imperator: Rome</a>
+                                <a href="https://prisonarchitect.paradoxwikis.com/" class="pdx_menu__link pdx_gameChanger--architect">Prison Architect</a>
+                                <a href="https://stellaris.paradoxwikis.com/Stellaris_Wiki" class="pdx_menu__link pdx_gameChanger--stellaris">Stellaris</a>
+                                <a href="https://survivingmars.paradoxwikis.com/Surviving_Mars_Wiki" class="pdx_menu__link pdx_gameChanger--mars">Surviving Mars</a>
+                                <a href="https://sta.paradoxwikis.com/Surviving_The_Aftermath_Wiki" class="pdx_menu__link pdx_gameChanger--aftermath">Surviving the Aftermath</a>
+                            </div>
+                            <div class="pdx_gameChanger__title">Legacy Wikis</div>
+                            <div class="pdx_dropdown__menuList pdx_dropdown__menuList pdx_dropdown__menuList--columns">
+                                <a href="https://ck2.paradoxwikis.com/Crusader_Kings_II_Wiki" class="pdx_menu__link pdx_gameChanger--ck2">Crusader Kings 2</a>
+                                <a href="https://aod.paradoxwikis.com/Main_Page" class="pdx_menu__link pdx_gameChanger--arsenal">Arsenal of Democracy</a>
+                                <a href="https://eu2.paradoxwikis.com/Main_Page" class="pdx_menu__link pdx_gameChanger--eu2">Europa Universalis 2</a>
+                                <a href="https://eu3.paradoxwikis.com/Europa_Universalis_3_Wiki" class="pdx_menu__link pdx_gameChanger--eu3">Europa Universalis 3</a>
+                                <a href="https://eurome.paradoxwikis.com/Europa_Universalis:_Rome_Wiki" class="pdx_menu__link pdx_gameChanger--eurome">Europa Universalis: Rome</a>
+                                <a href="https://hoi2.paradoxwikis.com/Main_Page" class="pdx_menu__link pdx_gameChanger--hi2">Hearts of Iron 2</a>
+                                <a href="https://hoi3.paradoxwikis.com/Hearts_of_Iron_3_Wiki" class="pdx_menu__link pdx_gameChanger--hi3">Hearts of Iron 3</a>
+                                <a href="https://steeldivision.paradoxwikis.com/Steel_Division_Wiki" class="pdx_menu__link pdx_gameChanger--steel">Steel Division</a>
+                                <a href="https://tyranny.paradoxwikis.com/Tyranny_Wiki" class="pdx_menu__link pdx_gameChanger--tyranny">Tyranny</a>
+                                <a href="https://vic1.paradoxwikis.com/Main_Page" class="pdx_menu__link pdx_gameChanger--vic1">Victoria 1</a>
+                                <a href="https://vic2.paradoxwikis.com/Victoria_2_Wiki" class="pdx_menu__link pdx_gameChanger--vic2">Victoria 2</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="pdx_mainNavBar__opposite">
+                    <div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+                        </h3>
+                        <i class="pdx_searchTrigger"></i>
+						<form action="/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search in Wiki" title="Search CK3 Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+                        </form>
+                    </div>
+
+                    <div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+                        <h3 id="p-personal-label">Personal tools</h3>
+                        <div class="pdx_hasDropdown">
+                            <a class="pdx_dropdownTrigger">Log in</a><div class="pdx_dropdown"><ul><li id="pt-anontalk"><a href="/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Attributes" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul></div>                            
+                        </div>
+                    </div>
+                </div>
+			</div>
+        </div>
+
+		<div id="mw-page-base" class="noprint"></div>
+        <div id="mw-head-base" class="noprint"></div>
+        <div class="pdx_contentWrapper">
+            <div id="mw-navigation">
+                <h2>Navigation menu</h2>
+                <div id="mw-head">
+                                        					                    <div id="left-navigation">
+                        					<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/Attributes" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk"><span><a href="/Talk:Attributes" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+					                    </div>
+                    <div id="right-navigation">
+                        					<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/Attributes">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/index.php?title=Attributes&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/index.php?title=Attributes&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+					                    					                    </div>
+                </div>
+                <div id="mw-panel">
+                    <div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/Crusader_Kings_III_Wiki"  title="Visit the main page"></a></div>
+                    		<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/Crusader_Kings_III_Wiki" title="Visit the main page [z]" accesskey="z">Crusader Kings III Wiki</a></li><li id="n-Style-guidelines"><a href="/Crusader_Kings_III_Wiki:Style">Style guidelines</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-Paradox_links" aria-labelledby="p-Paradox_links-label">
+			<h3 id="p-Paradox_links-label">Paradox links</h3>
+			<div class="body">
+								<ul>
+					<li id="n---Wikis"><a href="https://paradoxwikis.com/" rel="nofollow">- Wikis</a></li><li id="n---Forums"><a href="https://forum.paradoxplaza.com/forum/index.php?forums/crusader-kings-iii.1059/" rel="nofollow">- Forums</a></li><li id="n---Mods"><a href="https://mods.paradoxplaza.com/games/ck3?orderBy=desc&amp;sortBy=best" rel="nofollow">- Mods</a></li><li id="n---Store"><a href="https://www.paradoxplaza.com/crusader-kings-all/?utm_source=pdxwiki-owned&amp;utm_medium=social-owned&amp;utm_content=link&amp;utm_campaign=crki3_ck_20201105_past_noty" rel="nofollow">- Store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Attributes" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Attributes" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/index.php?title=Attributes&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Attributes&amp;oldid=11492" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Attributes&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-" aria-labelledby="p--label">
+			<h3 id="p--label"></h3>
+			<div class="body">
+				<div style = "margin-left:-2em;width:160px"><a href="https://www.paradoxplaza.com/europa-universalis-iv-emperor/EUEU04ESK0000001.html?utm_source=pdxwiki-owned&utm_medium=social-owned&utm_content=banner&utm_campaign=empe_eu_20200609_past_rel"><img src="https://central.paradoxwikis.com/images/a/a7/Ad_EU4_Emperor.png" style="margin-left:auto;margin-right:auto; display:block"></a></div>			</div>
+		</div>
+	                </div>
+            </div>
+            <div id="content" class="mw-body" role="main">
+                <a id="top"></a>
+                <div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Attributes</h1>                <div id="bodyContent" class="mw-body-content">
+                    <div id="siteSub" class="noprint">From CK3 Wiki</div>                    <div id="contentSub"></div>
+                    <div id="jump-to-nav"></div>                    <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+                    <a class="mw-jump-link" href="#p-search">Jump to search</a>
+                    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><link rel="stylesheet" href="https://d25yha10orzq01.cloudfront.net/cookie-widget/cookie-widget.css" media="all"><script src="//d25yha10orzq01.cloudfront.net/cookie-widget/cookie-widget_new_v2.js?v=125" defer></script><div class="mw-parser-output"><div class="eu4box metadata ambox ambox-content mbox-text" style="float:right; clear:right; width:330px; font-size:80%;">
+<p>This article has been verified for the current <a href="/CK3_Wiki:Versioning" class="mw-redirect" title="CK3 Wiki:Versioning">version</a> (1.2) of the game.
+</p>
+</div>
+<p>Attributes represent certain statistics that each character has and determine among other things how good a character is at certain actions.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Skills"><span class="tocnumber">1</span> <span class="toctext">Skills</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Value_thresholds"><span class="tocnumber">1.1</span> <span class="toctext">Value thresholds</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Dread"><span class="tocnumber">2</span> <span class="toctext">Dread</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Intimidation_and_terror"><span class="tocnumber">2.1</span> <span class="toctext">Intimidation and terror</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Dread_gain"><span class="tocnumber">2.2</span> <span class="toctext">Dread gain</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Natural_dread"><span class="tocnumber">2.3</span> <span class="toctext">Natural dread</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Health"><span class="tocnumber">3</span> <span class="toctext">Health</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Health_boosts_and_penalties"><span class="tocnumber">3.1</span> <span class="toctext">Health boosts and penalties</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Death"><span class="tocnumber">3.2</span> <span class="toctext">Death</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Fertility"><span class="tocnumber">4</span> <span class="toctext">Fertility</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Disease_resistance_.28fertility.29"><span class="tocnumber">4.1</span> <span class="toctext">Disease resistance (fertility)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Stress"><span class="tocnumber">5</span> <span class="toctext">Stress</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Mental_Breaks"><span class="tocnumber">5.1</span> <span class="toctext">Mental Breaks</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Age"><span class="tocnumber">6</span> <span class="toctext">Age</span></a>
+<ul>
+<li class="toclevel-2 tocsection-15"><a href="#Education"><span class="tocnumber">6.1</span> <span class="toctext">Education</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#Education_traits"><span class="tocnumber">7</span> <span class="toctext">Education traits</span></a>
+<ul>
+<li class="toclevel-2 tocsection-17"><a href="#Traits_factor"><span class="tocnumber">7.1</span> <span class="toctext">Traits factor</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Attributes_factor"><span class="tocnumber">7.2</span> <span class="toctext">Attributes factor</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Strategy"><span class="tocnumber">7.3</span> <span class="toctext">Strategy</span></a>
+<ul>
+<li class="toclevel-3 tocsection-20"><a href="#Example"><span class="tocnumber">7.3.1</span> <span class="toctext">Example</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-21"><a href="#Prowess_trait"><span class="tocnumber">7.4</span> <span class="toctext">Prowess trait</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-22"><a href="#Weight"><span class="tocnumber">8</span> <span class="toctext">Weight</span></a></li>
+<li class="toclevel-1 tocsection-23"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Skills">Skills</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Attributes&amp;action=edit&amp;section=1" title="Edit section: Skills">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:502px;"><a href="/File:Character_screen_skills.png" class="image"><img alt="" src="/images/thumb/f/fa/Character_screen_skills.png/500px-Character_screen_skills.png" width="500" height="594" class="thumbimage" srcset="/images/f/fa/Character_screen_skills.png 1.5x" data-file-width="596" data-file-height="708" data-url="/images/thumb/f/fa/Character_screen_skills.png/500px-Character_screen_skills.png" loading="lazy" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Character_screen_skills.png" class="internal" title="Enlarge"></a></div>A screenshot of the character screen with skills highlighted.</div></div></div>
+<p>Skills represent a character's expertise across various fields and together with skills determine how good or bad a character is at a given task. Skills cap at 100.
+</p>
+<table class="mildtable plainlist">
+<tbody><tr>
+<th>Skill
+</th>
+<th>Effects
+</th></tr>
+<tr>
+<td><a href="/File:Diplomacy.png" class="image"><img alt="Diplomacy.png" src="/images/a/af/Diplomacy.png" width="60" height="61" data-file-width="60" data-file-height="61" data-url="/images/a/af/Diplomacy.png" loading="lazy" /></a> Diplomacy
+</td>
+<td>
+<ul><li><img alt="" src="/images/thumb/9/97/Opinion.png/24px-Opinion.png" width="24" height="24" srcset="/images/9/97/Opinion.png 1.5x" data-file-width="30" data-file-height="30" data-url="/images/thumb/9/97/Opinion.png/24px-Opinion.png" loading="lazy" /> <span class="effect-green"><b>+1</b></span> <a href="/Personal_diplomacy" class="mw-redirect" title="Personal diplomacy">General opinion</a> per each level above 8, <span class="effect-red"><b>-1</b></span> per each level below 8<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></li>
+<li><img alt="" src="/images/thumb/0/04/Icon_prestige_01.png/24px-Icon_prestige_01.png" width="24" height="24" srcset="/images/thumb/0/04/Icon_prestige_01.png/36px-Icon_prestige_01.png 1.5x, /images/thumb/0/04/Icon_prestige_01.png/48px-Icon_prestige_01.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/0/04/Icon_prestige_01.png/24px-Icon_prestige_01.png" loading="lazy" /> <span class="effect-green"><b>+1%</b></span> Monthly prestige per level (starting from <span class="effect-red"><b>−8</b></span> at level 0)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></li>
+<li><img alt="" src="/images/thumb/9/97/Opinion.png/24px-Opinion.png" width="24" height="24" srcset="/images/9/97/Opinion.png 1.5x" data-file-width="30" data-file-height="30" data-url="/images/thumb/9/97/Opinion.png/24px-Opinion.png" loading="lazy" /> Determines the opinion gain from certain character interactions</li>
+<li><img alt="" src="/images/thumb/6/69/Scheme_success.png/24px-Scheme_success.png" width="24" height="24" srcset="/images/thumb/6/69/Scheme_success.png/36px-Scheme_success.png 1.5x, /images/thumb/6/69/Scheme_success.png/48px-Scheme_success.png 2x" data-file-width="70" data-file-height="70" data-url="/images/thumb/6/69/Scheme_success.png/24px-Scheme_success.png" loading="lazy" /> Determines the effectiveness of diplomacy schemes</li></ul>
+</td></tr>
+<tr>
+<td><a href="/File:Martial.png" class="image"><img alt="Martial.png" src="/images/9/9a/Martial.png" width="60" height="60" data-file-width="60" data-file-height="60" data-url="/images/9/9a/Martial.png" loading="lazy" /></a> Martial
+</td>
+<td>
+<ul><li><img alt="" src="/images/thumb/c/c3/Icon_soldier.png/24px-Icon_soldier.png" width="24" height="24" srcset="/images/thumb/c/c3/Icon_soldier.png/36px-Icon_soldier.png 1.5x, /images/thumb/c/c3/Icon_soldier.png/48px-Icon_soldier.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/c/c3/Icon_soldier.png/24px-Icon_soldier.png" loading="lazy" /> <span class="effect-green"><b>+2%</b></span> Levy size per level</li>
+<li><img alt="" src="/images/thumb/c/c3/Icon_soldier.png/24px-Icon_soldier.png" width="24" height="24" srcset="/images/thumb/c/c3/Icon_soldier.png/36px-Icon_soldier.png 1.5x, /images/thumb/c/c3/Icon_soldier.png/48px-Icon_soldier.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/c/c3/Icon_soldier.png/24px-Icon_soldier.png" loading="lazy" /> <span class="effect-green"><b>+2%</b></span> Levy reinforcement rate per level</li>
+<li><img alt="" src="/images/thumb/3/3f/Icon_commander_advantage.png/24px-Icon_commander_advantage.png" width="24" height="24" srcset="/images/thumb/3/3f/Icon_commander_advantage.png/36px-Icon_commander_advantage.png 1.5x, /images/thumb/3/3f/Icon_commander_advantage.png/48px-Icon_commander_advantage.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/3/3f/Icon_commander_advantage.png/24px-Icon_commander_advantage.png" loading="lazy" /> <span class="effect-green"><b>+1</b></span> <a href="/Warfare#The_advantage_modifier" title="Warfare">Advantage</a></li></ul>
+</td></tr>
+<tr>
+<td><a href="/File:Stewardship.png" class="image"><img alt="Stewardship.png" src="/images/c/c5/Stewardship.png" width="60" height="61" data-file-width="60" data-file-height="61" data-url="/images/c/c5/Stewardship.png" loading="lazy" /></a> Stewardship
+</td>
+<td>
+<ul><li><img alt="" src="/images/thumb/6/6b/Icon_gold.png/24px-Icon_gold.png" width="24" height="24" srcset="/images/thumb/6/6b/Icon_gold.png/36px-Icon_gold.png 1.5x, /images/thumb/6/6b/Icon_gold.png/48px-Icon_gold.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/6/6b/Icon_gold.png/24px-Icon_gold.png" loading="lazy" /> <span class="effect-green"><b>+2%</b></span> Domain taxes per each level above 8, <span class="effect-red"><b>-2%</b></span> Domain taxes per each level below 8</li>
+<li><img alt="" src="/images/thumb/8/8b/Domain.png/24px-Domain.png" width="24" height="24" srcset="/images/thumb/8/8b/Domain.png/36px-Domain.png 1.5x, /images/thumb/8/8b/Domain.png/48px-Domain.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/8/8b/Domain.png/24px-Domain.png" loading="lazy" /> <span class="effect-green"><b>+1</b></span> Domain limit per 5 levels</li></ul>
+</td></tr>
+<tr>
+<td><a href="/File:Intrigue.png" class="image"><img alt="Intrigue.png" src="/images/0/0b/Intrigue.png" width="60" height="60" data-file-width="60" data-file-height="60" data-url="/images/0/0b/Intrigue.png" loading="lazy" /></a> Intrigue
+</td>
+<td>
+<ul><li><img alt="" src="/images/thumb/3/38/Scheme_secrecy.png/24px-Scheme_secrecy.png" width="24" height="24" srcset="/images/thumb/3/38/Scheme_secrecy.png/36px-Scheme_secrecy.png 1.5x, /images/thumb/3/38/Scheme_secrecy.png/48px-Scheme_secrecy.png 2x" data-file-width="70" data-file-height="70" data-url="/images/thumb/3/38/Scheme_secrecy.png/24px-Scheme_secrecy.png" loading="lazy" /> <span class="effect-green"><b>+1%</b></span> Scheme discovery chance per level</li>
+<li><img alt="" src="/images/thumb/6/69/Scheme_success.png/24px-Scheme_success.png" width="24" height="24" srcset="/images/thumb/6/69/Scheme_success.png/36px-Scheme_success.png 1.5x, /images/thumb/6/69/Scheme_success.png/48px-Scheme_success.png 2x" data-file-width="70" data-file-height="70" data-url="/images/thumb/6/69/Scheme_success.png/24px-Scheme_success.png" loading="lazy" /> <span class="effect-green"><b>+1</b></span> Hostile scheme success chance per level</li>
+<li><img alt="" src="/images/thumb/6/69/Scheme_success.png/24px-Scheme_success.png" width="24" height="24" srcset="/images/thumb/6/69/Scheme_success.png/36px-Scheme_success.png 1.5x, /images/thumb/6/69/Scheme_success.png/48px-Scheme_success.png 2x" data-file-width="70" data-file-height="70" data-url="/images/thumb/6/69/Scheme_success.png/24px-Scheme_success.png" loading="lazy" /> Determines the effectiveness of intrigue schemes</li>
+<li><img alt="" src="/images/thumb/5/5f/Punishment.png/24px-Punishment.png" width="24" height="24" srcset="/images/thumb/5/5f/Punishment.png/36px-Punishment.png 1.5x, /images/5/5f/Punishment.png 2x" data-file-width="40" data-file-height="40" data-url="/images/thumb/5/5f/Punishment.png/24px-Punishment.png" loading="lazy" /> Determines imprisonment success chance</li></ul>
+</td></tr>
+<tr>
+<td><a href="/File:Learning.png" class="image"><img alt="Learning.png" src="/images/2/22/Learning.png" width="60" height="61" data-file-width="60" data-file-height="61" data-url="/images/2/22/Learning.png" loading="lazy" /></a> Learning
+</td>
+<td>
+<ul><li><img alt="" src="/images/thumb/f/fa/Icon_piety_christian_01.png/24px-Icon_piety_christian_01.png" width="24" height="24" srcset="/images/thumb/f/fa/Icon_piety_christian_01.png/36px-Icon_piety_christian_01.png 1.5x, /images/thumb/f/fa/Icon_piety_christian_01.png/48px-Icon_piety_christian_01.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/f/fa/Icon_piety_christian_01.png/24px-Icon_piety_christian_01.png" loading="lazy" /> <span class="effect-green"><b>+0.1</b></span> Monthly piety per level</li>
+<li><img alt="" src="/images/thumb/f/fa/Icon_piety_christian_01.png/24px-Icon_piety_christian_01.png" width="24" height="24" srcset="/images/thumb/f/fa/Icon_piety_christian_01.png/36px-Icon_piety_christian_01.png 1.5x, /images/thumb/f/fa/Icon_piety_christian_01.png/48px-Icon_piety_christian_01.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/f/fa/Icon_piety_christian_01.png/24px-Icon_piety_christian_01.png" loading="lazy" /> <span class="effect-green"><b>-1%</b></span> Conversion cost per level</li>
+<li><img alt="" src="/images/thumb/1/16/Technology.png/24px-Technology.png" width="24" height="24" srcset="/images/thumb/1/16/Technology.png/36px-Technology.png 1.5x, /images/thumb/1/16/Technology.png/48px-Technology.png 2x" data-file-width="70" data-file-height="70" data-url="/images/thumb/1/16/Technology.png/24px-Technology.png" loading="lazy" /> <span class="effect-green"><b>+2%</b></span> Cultural fascination bonus if cultural head</li>
+<li><img alt="" src="/images/thumb/0/04/Icon_prestige_01.png/24px-Icon_prestige_01.png" width="24" height="24" srcset="/images/thumb/0/04/Icon_prestige_01.png/36px-Icon_prestige_01.png 1.5x, /images/thumb/0/04/Icon_prestige_01.png/48px-Icon_prestige_01.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/0/04/Icon_prestige_01.png/24px-Icon_prestige_01.png" loading="lazy" /> Determines the prestige cost to increase crown authority</li>
+<li><img alt="" src="/images/thumb/d/dd/Unknown.png/24px-Unknown.png" width="24" height="24" srcset="/images/thumb/d/dd/Unknown.png/36px-Unknown.png 1.5x, /images/thumb/d/dd/Unknown.png/48px-Unknown.png 2x" data-file-width="192" data-file-height="192" data-url="/images/thumb/d/dd/Unknown.png/24px-Unknown.png" loading="lazy" /> Determines the success chance of Demand Conversion</li></ul>
+</td></tr>
+<tr>
+<td><a href="/File:War.png" class="image"><img alt="War.png" src="/images/a/a7/War.png" width="73" height="72" data-file-width="73" data-file-height="72" data-url="/images/a/a7/War.png" loading="lazy" /></a> Prowess
+</td>
+<td>
+<ul><li><img alt="" src="/images/thumb/d/dd/Unknown.png/24px-Unknown.png" width="24" height="24" srcset="/images/thumb/d/dd/Unknown.png/36px-Unknown.png 1.5x, /images/thumb/d/dd/Unknown.png/48px-Unknown.png 2x" data-file-width="192" data-file-height="192" data-url="/images/thumb/d/dd/Unknown.png/24px-Unknown.png" loading="lazy" /> Determines the effectiveness in duels (e.g. <a href="/Title" class="mw-redirect" title="Title">title</a> challenge for Tribal rulers)</li>
+<li><img alt="" src="/images/thumb/2/27/Unit_stat_toughness.png/24px-Unit_stat_toughness.png" width="24" height="24" srcset="/images/thumb/2/27/Unit_stat_toughness.png/36px-Unit_stat_toughness.png 1.5x, /images/thumb/2/27/Unit_stat_toughness.png/48px-Unit_stat_toughness.png 2x" data-file-width="49" data-file-height="49" data-url="/images/thumb/2/27/Unit_stat_toughness.png/24px-Unit_stat_toughness.png" loading="lazy" /> <span class="effect-green"><b>+10</b></span> Toughness as knight per level</li>
+<li><img alt="" src="/images/thumb/3/36/Unit_stat_damage.png/24px-Unit_stat_damage.png" width="24" height="24" srcset="/images/thumb/3/36/Unit_stat_damage.png/36px-Unit_stat_damage.png 1.5x, /images/thumb/3/36/Unit_stat_damage.png/48px-Unit_stat_damage.png 2x" data-file-width="49" data-file-height="49" data-url="/images/thumb/3/36/Unit_stat_damage.png/24px-Unit_stat_damage.png" loading="lazy" /> <span class="effect-green"><b>+100</b></span> Damage as knight per level</li></ul>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Value_thresholds">Value thresholds</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Attributes&amp;action=edit&amp;section=2" title="Edit section: Value thresholds">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Value thresholds, while not as important as the exact value of a skill, are taken into account in various events to determine the chances for a good or bad outcome. Skills are decided by education traits and can be affected by other trait types.
+</p>
+<table class="mildtable" style="text-align: center;">
+<tbody><tr>
+<th>Values
+</th>
+<th>Description
+</th></tr>
+<tr>
+<td>0–4
+</td>
+<td>Terrible
+</td></tr>
+<tr>
+<td>5–8
+</td>
+<td>Poor
+</td></tr>
+<tr>
+<td>9–12
+</td>
+<td>Average
+</td></tr>
+<tr>
+<td>13–16
+</td>
+<td>Good
+</td></tr>
+<tr>
+<td>17-68
+</td>
+<td>Excellent
+</td></tr>
+<tr>
+<td>69
+</td>
+<td>Nice
+</td></tr>
+<tr>
+<td>70+
+</td>
+<td>Excellent
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Dread">Dread</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Attributes&amp;action=edit&amp;section=3" title="Edit section: Dread">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>Dread</b> is a measure of how feared a ruler is by their vassals. Enough dread compared to another character's <a href="#Boldness">boldness</a> can make characters either intimidated or terrified, allowing most diplomatic actions to succeed despite negative opinion.
+</p><p>Dread is gained by various actions that inspire fear, such as torturing or executing prisoners. However, it is also possible to lose dread through actions showing compassion or weakness, including releasing prisoners and accepting faction demands. Each character additionally has <i>natural dread</i> which is the value towards which dread will drift over time (either up or down), at a base rate of 0.5 per month. The lifestyle perk <i>Forever Infamous</i> prevents dread from decaying.
+</p><p>Each character has a hidden boldness attribute, which is decided by its <a href="/Traits" title="Traits">traits</a>. A character becomes intimidated by characters whose <img alt="" src="/images/thumb/c/c9/Dread.png/24px-Dread.png" width="24" height="24" srcset="/images/thumb/c/c9/Dread.png/36px-Dread.png 1.5x, /images/thumb/c/c9/Dread.png/48px-Dread.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/c/c9/Dread.png/24px-Dread.png" loading="lazy" />&#160;dread is 20 above their own boldness and terrified by characters whose dread is 45 above their own boldness.
+</p>
+<h3><span class="mw-headline" id="Intimidation_and_terror">Intimidation and terror</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Attributes&amp;action=edit&amp;section=4" title="Edit section: Intimidation and terror">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Intimidated characters are less likely to join factions or schemes against the character they're intimidated by, while a terrified character will never join factions or schemes against them. In addition, it affects their acceptance for various character interactions:
+</p>
+<table class="mildtable" style="text-align: center;">
+<tbody><tr>
+<th>Interaction
+</th>
+<th><a href="/File:Intimidated.png" class="image"><img alt="Intimidated.png" src="/images/3/38/Intimidated.png" width="40" height="40" data-file-width="40" data-file-height="40" data-url="/images/3/38/Intimidated.png" loading="lazy" /></a> Intimidated acceptance
+</th>
+<th><a href="/File:Terrified.png" class="image"><img alt="Terrified.png" src="/images/a/ae/Terrified.png" width="40" height="40" data-file-width="40" data-file-height="40" data-url="/images/a/ae/Terrified.png" loading="lazy" /></a> Terrified acceptance
+</th></tr>
+<tr>
+<td>Arrange marriage
+</td>
+<td><span class="effect-green"><b>+75</b></span>
+</td>
+<td><span class="effect-green"><b>+150</b></span>
+</td></tr>
+<tr>
+<td>Blackmail
+</td>
+<td><span class="effect-green"><b>+50</b></span>
+</td>
+<td><span class="effect-green"><b>+100</b></span>
+</td></tr>
+<tr>
+<td>Negotiate alliance
+</td>
+<td><span class="effect-green"><b>+50</b></span>
+</td>
+<td><span class="effect-green"><b>+100</b></span>
+</td></tr>
+<tr>
+<td>Offer guardianship
+</td>
+<td><span class="effect-green"><b>+50</b></span>
+</td>
+<td><span class="effect-green"><b>+100</b></span>
+</td></tr>
+<tr>
+<td>Offer ward
+</td>
+<td><span class="effect-green"><b>+50</b></span>
+</td>
+<td><span class="effect-green"><b>+100</b></span>
+</td></tr>
+<tr>
+<td>Ransom
+</td>
+<td><span class="effect-green"><b>+40</b></span>
+</td>
+<td><span class="effect-green"><b>+100</b></span>
+</td></tr>
+<tr>
+<td>Ask to take vows
+</td>
+<td><span class="effect-green"><b>+25</b></span>
+</td>
+<td><span class="effect-green"><b>+50</b></span>
+</td></tr>
+<tr>
+<td>Imprison
+</td>
+<td><span class="effect-green"><b>+25</b></span>
+</td>
+<td><span class="effect-green"><b>+50</b></span>
+</td></tr>
+<tr>
+<td>Retract vassal
+</td>
+<td><span class="effect-green"><b>+25</b></span>
+</td>
+<td><span class="effect-green"><b>+50</b></span>
+</td></tr>
+<tr>
+<td>Revoke title
+</td>
+<td><span class="effect-green"><b>+25</b></span>
+</td>
+<td><span class="effect-green"><b>+50</b></span>
+</td></tr>
+<tr>
+<td>Demand conversion
+</td>
+<td><span class="effect-green"><b>+10</b></span>
+</td>
+<td><span class="effect-green"><b>+20</b></span>
+</td></tr>
+<tr>
+<td>Offer vassalage
+</td>
+<td><span class="effect-green"><b>+10</b></span>
+</td>
+<td><span class="effect-green"><b>+20</b></span>
+</td></tr>
+<tr>
+<td>Marry
+</td>
+<td><span class="effect-red"><b>-50</b></span>
+</td>
+<td><span class="effect-red"><b>-75</b></span>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Dread_gain">Dread gain</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Attributes&amp;action=edit&amp;section=5" title="Edit section: Dread gain">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The amount of dread gained through actions is modified by the following:
+</p>
+<table class="mildtable sortable">
+
+<tbody><tr>
+<th>Source
+</th>
+<th>Dread gain
+</th></tr>
+<tr>
+<td><a href="/The_Tower_of_London" class="mw-redirect" title="The Tower of London">The Tower of London</a>
+</td>
+<td><span class="effect-green"><b>+30%</b></span>
+</td></tr>
+<tr>
+<td>First <a href="/Guile" class="mw-redirect" title="Guile">Guile</a> dynasty legacy perk
+</td>
+<td><span class="effect-green"><b>+20%</b></span>
+</td></tr>
+<tr>
+<td><a href="/File:Martial_authority_focus.png" class="image"><img alt="Martial authority focus.png" src="/images/thumb/e/ec/Martial_authority_focus.png/24px-Martial_authority_focus.png" width="24" height="24" srcset="/images/thumb/e/ec/Martial_authority_focus.png/36px-Martial_authority_focus.png 1.5x, /images/thumb/e/ec/Martial_authority_focus.png/48px-Martial_authority_focus.png 2x" data-file-width="140" data-file-height="140" data-url="/images/thumb/e/ec/Martial_authority_focus.png/24px-Martial_authority_focus.png" loading="lazy" /></a> <a href="/Authority_(focus)" class="mw-redirect" title="Authority (focus)">Authority focus</a>
+</td>
+<td><span class="effect-green"><b>+20%</b></span>
+</td></tr>
+<tr>
+<td><i>Dreadful</i> perk in <a href="/Torturer_(perk_tree)" class="mw-redirect" title="Torturer (perk tree)">Torturer</a> tree (<img alt="" src="/images/thumb/0/01/Intrigue_lifestyle.png/24px-Intrigue_lifestyle.png" width="24" height="24" srcset="/images/thumb/0/01/Intrigue_lifestyle.png/36px-Intrigue_lifestyle.png 1.5x, /images/thumb/0/01/Intrigue_lifestyle.png/48px-Intrigue_lifestyle.png 2x" data-file-width="160" data-file-height="160" data-url="/images/thumb/0/01/Intrigue_lifestyle.png/24px-Intrigue_lifestyle.png" loading="lazy" />&#160;Intrigue lifestyle)
+</td>
+<td><span class="effect-green"><b>+30%</b></span>
+</td></tr>
+<tr>
+<td><i>Hard Rule</i> perk in <a href="/Overseer_(perk_tree)" class="mw-redirect" title="Overseer (perk tree)">Overseer</a> tree (<img alt="" src="/images/thumb/b/b3/Martial_lifestyle.png/24px-Martial_lifestyle.png" width="24" height="24" srcset="/images/thumb/b/b3/Martial_lifestyle.png/36px-Martial_lifestyle.png 1.5x, /images/thumb/b/b3/Martial_lifestyle.png/48px-Martial_lifestyle.png 2x" data-file-width="160" data-file-height="160" data-url="/images/thumb/b/b3/Martial_lifestyle.png/24px-Martial_lifestyle.png" loading="lazy" />&#160;Martial lifestyle)
+</td>
+<td><span class="effect-green"><b>+20%</b></span>
+</td></tr>
+<tr>
+<td><img alt="" src="/images/thumb/9/96/Modifier_feast_positive.png/24px-Modifier_feast_positive.png" width="24" height="24" srcset="/images/thumb/9/96/Modifier_feast_positive.png/36px-Modifier_feast_positive.png 1.5x, /images/thumb/9/96/Modifier_feast_positive.png/48px-Modifier_feast_positive.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/9/96/Modifier_feast_positive.png/24px-Modifier_feast_positive.png" loading="lazy" /> <i><a href="/Public_Display_of_Ruthlessness" class="mw-redirect" title="Public Display of Ruthlessness">Public Display of Ruthlessness</a></i> modifier (<img alt="" src="/images/thumb/f/f5/Activity_feast.png/24px-Activity_feast.png" width="24" height="24" srcset="/images/thumb/f/f5/Activity_feast.png/36px-Activity_feast.png 1.5x, /images/thumb/f/f5/Activity_feast.png/48px-Activity_feast.png 2x" data-file-width="70" data-file-height="70" data-url="/images/thumb/f/f5/Activity_feast.png/24px-Activity_feast.png" loading="lazy" /> <a href="/Host_Feast" class="mw-redirect" title="Host Feast">Host Feast</a>)
+</td>
+<td><span class="effect-green"><b>+25%</b></span>
+</td></tr>
+<tr>
+<td><i>Suspicious Reputation</i> modifier (<img alt="" src="/images/thumb/1/12/Learning_lifestyle.png/24px-Learning_lifestyle.png" width="24" height="24" srcset="/images/thumb/1/12/Learning_lifestyle.png/36px-Learning_lifestyle.png 1.5x, /images/thumb/1/12/Learning_lifestyle.png/48px-Learning_lifestyle.png 2x" data-file-width="160" data-file-height="160" data-url="/images/thumb/1/12/Learning_lifestyle.png/24px-Learning_lifestyle.png" loading="lazy" />&#160;Learning lifestyle event)
+</td>
+<td><span class="effect-green"><b>+20%</b></span>
+</td></tr>
+<tr>
+<td><i>Dangerous to Know</i> modifier (<img alt="" src="/images/thumb/1/12/Learning_lifestyle.png/24px-Learning_lifestyle.png" width="24" height="24" srcset="/images/thumb/1/12/Learning_lifestyle.png/36px-Learning_lifestyle.png 1.5x, /images/thumb/1/12/Learning_lifestyle.png/48px-Learning_lifestyle.png 2x" data-file-width="160" data-file-height="160" data-url="/images/thumb/1/12/Learning_lifestyle.png/24px-Learning_lifestyle.png" loading="lazy" />&#160;Learning lifestyle event)
+</td>
+<td><span class="effect-green"><b>+20%</b></span>
+</td></tr>
+<tr>
+<td><i>Wind Spirits' Blessing</i> modifier (<img alt="" src="/images/thumb/1/14/Decisions.png/24px-Decisions.png" width="24" height="20" srcset="/images/thumb/1/14/Decisions.png/36px-Decisions.png 1.5x, /images/thumb/1/14/Decisions.png/48px-Decisions.png 2x" data-file-width="132" data-file-height="108" data-url="/images/thumb/1/14/Decisions.png/24px-Decisions.png" loading="lazy" /> <a href="/Seek_Aid_of_the_Spirits" class="mw-redirect" title="Seek Aid of the Spirits">Seek Aid of the Spirits</a> decision)
+</td>
+<td><span class="effect-green"><b>+25%</b></span>
+</td></tr>
+<tr>
+<td><img alt="" src="/images/thumb/8/81/Trait_torturer.png/24px-Trait_torturer.png" width="24" height="24" srcset="/images/thumb/8/81/Trait_torturer.png/36px-Trait_torturer.png 1.5x, /images/thumb/8/81/Trait_torturer.png/48px-Trait_torturer.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/8/81/Trait_torturer.png/24px-Trait_torturer.png" loading="lazy" /> <a href="/Torturer" class="mw-redirect" title="Torturer">Torturer</a> trait
+</td>
+<td><span class="effect-green"><b>+50%</b></span>
+</td></tr>
+<tr>
+<td><img alt="" src="/images/thumb/5/52/Trait_paranoid.png/24px-Trait_paranoid.png" width="24" height="24" srcset="/images/thumb/5/52/Trait_paranoid.png/36px-Trait_paranoid.png 1.5x, /images/thumb/5/52/Trait_paranoid.png/48px-Trait_paranoid.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/5/52/Trait_paranoid.png/24px-Trait_paranoid.png" loading="lazy" /> <a href="/Paranoid" class="mw-redirect" title="Paranoid">Paranoid</a> trait
+</td>
+<td><span class="effect-green"><b>+25%</b></span>
+</td></tr>
+<tr>
+<td><img alt="" src="/images/thumb/d/d1/Trait_callous.png/24px-Trait_callous.png" width="24" height="24" srcset="/images/thumb/d/d1/Trait_callous.png/36px-Trait_callous.png 1.5x, /images/thumb/d/d1/Trait_callous.png/48px-Trait_callous.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/d/d1/Trait_callous.png/24px-Trait_callous.png" loading="lazy" /> <a href="/Callous" class="mw-redirect" title="Callous">Callous</a> trait
+</td>
+<td><span class="effect-green"><b>+25%</b></span>
+</td></tr>
+<tr>
+<td><img alt="" src="/images/thumb/4/4a/Trait_vengeful.png/24px-Trait_vengeful.png" width="24" height="24" srcset="/images/thumb/4/4a/Trait_vengeful.png/36px-Trait_vengeful.png 1.5x, /images/thumb/4/4a/Trait_vengeful.png/48px-Trait_vengeful.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/4/4a/Trait_vengeful.png/24px-Trait_vengeful.png" loading="lazy" /> <a href="/Vengeful" class="mw-redirect" title="Vengeful">Vengeful</a> trait
+</td>
+<td><span class="effect-green"><b>+15%</b></span>
+</td></tr>
+<tr>
+<td><img alt="" src="/images/thumb/2/2d/Trait_irritable.png/24px-Trait_irritable.png" width="24" height="24" srcset="/images/thumb/2/2d/Trait_irritable.png/36px-Trait_irritable.png 1.5x, /images/thumb/2/2d/Trait_irritable.png/48px-Trait_irritable.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/2/2d/Trait_irritable.png/24px-Trait_irritable.png" loading="lazy" /> <a href="/Irritable" class="mw-redirect" title="Irritable">Irritable</a> trait
+</td>
+<td><span class="effect-green"><b>+10%</b></span>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Natural_dread">Natural dread</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Attributes&amp;action=edit&amp;section=6" title="Edit section: Natural dread">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The natural dread of a character is modified by the following (default value is 0):
+</p>
+<table class="mildtable sortable">
+
+<tbody><tr>
+<th>Source
+</th>
+<th>Natural dread
+</th></tr>
+<tr>
+<td><a href="/Lifestyle#Focuses" title="Lifestyle">Intimidation</a> focus
+</td>
+<td><span class="effect-green"><b>+30</b></span>
+</td></tr>
+<tr>
+<td><i><a href="/Lifestyle#Overseer" title="Lifestyle">Serve the Crown</a></i> lifestyle perk
+</td>
+<td><span class="effect-green"><b>+15</b></span>
+</td></tr>
+<tr>
+<td><a href="/Traits#Wrathful" title="Traits">Wrathful</a> trait
+</td>
+<td><span class="effect-green"><b>+20</b></span>
+</td></tr>
+<tr>
+<td><a href="/Traits#Arbitrary" title="Traits">Arbitrary</a> trait
+</td>
+<td><span class="effect-green"><b>+15</b></span>
+</td></tr>
+<tr>
+<td><a href="/Traits#Sadistic" title="Traits">Sadistic</a> trait
+</td>
+<td><span class="effect-green"><b>+35</b></span>
+</td></tr>
+<tr>
+<td><a href="/Traits#Albino" title="Traits">Albino</a> trait
+</td>
+<td><span class="effect-green"><b>+15</b></span>
+</td></tr>
+<tr>
+<td><a href="/Traits#Scaly" title="Traits">Scaly</a> trait
+</td>
+<td><span class="effect-green"><b>+10</b></span>
+</td></tr>
+<tr>
+<td><a href="/Traits#One-Eyed" title="Traits">One-Eyed</a> trait
+</td>
+<td><span class="effect-green"><b>+10</b></span>
+</td></tr>
+<tr>
+<td><a href="/Traits#Cannibal" title="Traits">Cannibal</a> trait
+</td>
+<td><span class="effect-green"><b>+20</b></span>
+</td></tr>
+<tr>
+<td><a href="/Traits#Greatest_of_Khans" title="Traits">Greatest of Khans</a> trait
+</td>
+<td><span class="effect-green"><b>+50</b></span>
+</td></tr>
+<tr>
+<td><a href="/Traits#Compassionate" title="Traits">Compassionate</a> trait
+</td>
+<td><span class="effect-red"><b>-15</b></span>
+</td></tr>
+<tr>
+<td><a href="/Traits#Wounded" title="Traits">Wounded</a> trait
+</td>
+<td><span class="effect-red"><b>-10</b></span>
+</td></tr>
+<tr>
+<td><a href="/Traits#Severely_Injured" title="Traits">Severely Injured</a> trait
+</td>
+<td><span class="effect-red"><b>-15</b></span>
+</td></tr>
+<tr>
+<td><a href="/Traits#Brutally_Mauled" title="Traits">Brutally Mauled</a> trait
+</td>
+<td><span class="effect-red"><b>-20</b></span>
+</td></tr>
+<tr>
+<td><a href="/Traits#Sickly" title="Traits">Sickly</a> trait
+</td>
+<td><span class="effect-red"><b>-20</b></span>
+</td></tr>
+<tr>
+<td><a href="/Traits#Infirm" title="Traits">Infirm</a> trait
+</td>
+<td><span class="effect-red"><b>-15</b></span>
+</td></tr>
+<tr>
+<td><a href="/Traits#Incapable" title="Traits">Incapable</a> trait
+</td>
+<td><span class="effect-red"><b>-25</b></span>
+</td></tr>
+<tr>
+<td><a href="/Traits#Maimed" title="Traits">Maimed</a> trait
+</td>
+<td><span class="effect-red"><b>-15</b></span>
+</td></tr>
+<tr>
+<td><a href="/Traits#Blind" title="Traits">Blind</a> trait
+</td>
+<td><span class="effect-red"><b>-10</b></span>
+</td></tr>
+<tr>
+<td><a href="/Traits#Ill" title="Traits">Ill</a> trait
+</td>
+<td><span class="effect-red"><b>-10</b></span>
+</td></tr>
+<tr>
+<td><a href="/Traits#Bubonic_Plague" title="Traits">Bubonic Plague</a> trait
+</td>
+<td><span class="effect-red"><b>-30</b></span>
+</td></tr>
+<tr>
+<td><a href="/Traits#Cancer" title="Traits">Cancer</a> trait
+</td>
+<td><span class="effect-red"><b>-20</b></span>
+</td></tr>
+<tr>
+<td><a href="/Traits#Consumption" title="Traits">Consumption</a> trait
+</td>
+<td><span class="effect-red"><b>-10</b></span>
+</td></tr>
+<tr>
+<td><a href="/Traits#Great_Pox" title="Traits">Great Pox</a> trait
+</td>
+<td><span class="effect-red"><b>-20</b></span>
+</td></tr>
+<tr>
+<td><a href="/Traits#Gout-ridden" title="Traits">Gout-ridden</a> trait
+</td>
+<td><span class="effect-red"><b>-5</b></span>
+</td></tr>
+<tr>
+<td><a href="/Traits#Leper" title="Traits">Leper</a> trait
+</td>
+<td><span class="effect-red"><b>-20</b></span>
+</td></tr>
+<tr>
+<td><a href="/Traits#Lover.27s_Pox" title="Traits">Lover's Pox</a> trait
+</td>
+<td><span class="effect-red"><b>-5</b></span>
+</td></tr>
+<tr>
+<td><a href="/Traits#Pneumonia" title="Traits">Pneumonia</a> trait
+</td>
+<td><span class="effect-red"><b>-10</b></span>
+</td></tr>
+<tr>
+<td><a href="/Traits#One-Legged" title="Traits">One-Legged</a> trait
+</td>
+<td><span class="effect-red"><b>-10</b></span>
+</td></tr>
+<tr>
+<td><a href="/Traits#Small_Pox" title="Traits">Small Pox</a> trait
+</td>
+<td><span class="effect-red"><b>-15</b></span>
+</td></tr>
+<tr>
+<td><a href="/Traits#Typhus" title="Traits">Typhus</a> trait
+</td>
+<td><span class="effect-red"><b>-15</b></span>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Health">Health</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Attributes&amp;action=edit&amp;section=7" title="Edit section: Health">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Health is a measure of how likely a character is to die. Male characters are born with health between (and including) 4.5 and 4.9; female characters are born with health between (and including) 5.0 and 5.4.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> Once a character reaches the age of 25, they have a 7.5% chance to lose <img alt="" src="/images/thumb/9/94/Health.png/24px-Health.png" width="24" height="24" srcset="/images/thumb/9/94/Health.png/36px-Health.png 1.5x, /images/thumb/9/94/Health.png/48px-Health.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/9/94/Health.png/24px-Health.png" loading="lazy" /> <span class="effect-red"><b>−0.125</b></span> health each year. The chance increases by 2.2% each year.
+</p>
+<table class="mildtable">
+<tbody><tr>
+<th>Health
+</th>
+<th>Can die
+</th>
+<th>Description
+</th>
+<th>Interval
+</th></tr>
+<tr>
+<td><a href="/File:Health_negative.png" class="image"><img alt="Health negative.png" src="/images/thumb/0/0d/Health_negative.png/24px-Health_negative.png" width="24" height="24" srcset="/images/thumb/0/0d/Health_negative.png/36px-Health_negative.png 1.5x, /images/thumb/0/0d/Health_negative.png/48px-Health_negative.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/0/0d/Health_negative.png/24px-Health_negative.png" loading="lazy" /></a> Dying
+</td>
+<td align="center"><img alt="Yes" src="/images/thumb/0/0f/Icon_check.png/24px-Icon_check.png" title="Yes" width="24" height="24" srcset="/images/thumb/0/0f/Icon_check.png/36px-Icon_check.png 1.5x, /images/thumb/0/0f/Icon_check.png/48px-Icon_check.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/0/0f/Icon_check.png/24px-Icon_check.png" loading="lazy" />
+</td>
+<td><i>You are at Death's doorstep</i>
+</td>
+<td>health &lt; 0
+</td></tr>
+<tr>
+<td><a href="/File:Health_negative.png" class="image"><img alt="Health negative.png" src="/images/thumb/0/0d/Health_negative.png/24px-Health_negative.png" width="24" height="24" srcset="/images/thumb/0/0d/Health_negative.png/36px-Health_negative.png 1.5x, /images/thumb/0/0d/Health_negative.png/48px-Health_negative.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/0/0d/Health_negative.png/24px-Health_negative.png" loading="lazy" /></a> Near Death
+</td>
+<td align="center"><img alt="Yes" src="/images/thumb/0/0f/Icon_check.png/24px-Icon_check.png" title="Yes" width="24" height="24" srcset="/images/thumb/0/0f/Icon_check.png/36px-Icon_check.png 1.5x, /images/thumb/0/0f/Icon_check.png/48px-Icon_check.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/0/0f/Icon_check.png/24px-Icon_check.png" loading="lazy" />
+</td>
+<td><i>You are not long for this world...</i>
+</td>
+<td>0 ≤ health &lt; 1
+</td></tr>
+<tr>
+<td><a href="/File:Health.png" class="image"><img alt="Health.png" src="/images/thumb/9/94/Health.png/24px-Health.png" width="24" height="24" srcset="/images/thumb/9/94/Health.png/36px-Health.png 1.5x, /images/thumb/9/94/Health.png/48px-Health.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/9/94/Health.png/24px-Health.png" loading="lazy" /></a> Poor
+</td>
+<td align="center"><img alt="Yes" src="/images/thumb/0/0f/Icon_check.png/24px-Icon_check.png" title="Yes" width="24" height="24" srcset="/images/thumb/0/0f/Icon_check.png/36px-Icon_check.png 1.5x, /images/thumb/0/0f/Icon_check.png/48px-Icon_check.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/0/0f/Icon_check.png/24px-Icon_check.png" loading="lazy" />
+</td>
+<td><i>You are ailing</i>
+</td>
+<td>1 ≤ health &lt; 3
+</td></tr>
+<tr>
+<td><a href="/File:Health.png" class="image"><img alt="Health.png" src="/images/thumb/9/94/Health.png/24px-Health.png" width="24" height="24" srcset="/images/thumb/9/94/Health.png/36px-Health.png 1.5x, /images/thumb/9/94/Health.png/48px-Health.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/9/94/Health.png/24px-Health.png" loading="lazy" /></a> Fine
+</td>
+<td align="center"><img alt="No" src="/images/thumb/e/e4/Icon_cross.png/24px-Icon_cross.png" title="No" width="24" height="24" srcset="/images/thumb/e/e4/Icon_cross.png/36px-Icon_cross.png 1.5x, /images/thumb/e/e4/Icon_cross.png/48px-Icon_cross.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/e/e4/Icon_cross.png/24px-Icon_cross.png" loading="lazy" />
+</td>
+<td><i>You are feeling fine</i>
+</td>
+<td>3 ≤ health &lt; 5
+</td></tr>
+<tr>
+<td><a href="/File:Health_positive.png" class="image"><img alt="Health positive.png" src="/images/thumb/a/a2/Health_positive.png/24px-Health_positive.png" width="24" height="24" srcset="/images/thumb/a/a2/Health_positive.png/36px-Health_positive.png 1.5x, /images/thumb/a/a2/Health_positive.png/48px-Health_positive.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/a/a2/Health_positive.png/24px-Health_positive.png" loading="lazy" /></a> Good
+</td>
+<td align="center"><img alt="No" src="/images/thumb/e/e4/Icon_cross.png/24px-Icon_cross.png" title="No" width="24" height="24" srcset="/images/thumb/e/e4/Icon_cross.png/36px-Icon_cross.png 1.5x, /images/thumb/e/e4/Icon_cross.png/48px-Icon_cross.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/e/e4/Icon_cross.png/24px-Icon_cross.png" loading="lazy" />
+</td>
+<td><i>Your humors are balanced</i>
+</td>
+<td>5 ≤ health &lt; 7
+</td></tr>
+<tr>
+<td><a href="/File:Health_positive.png" class="image"><img alt="Health positive.png" src="/images/thumb/a/a2/Health_positive.png/24px-Health_positive.png" width="24" height="24" srcset="/images/thumb/a/a2/Health_positive.png/36px-Health_positive.png 1.5x, /images/thumb/a/a2/Health_positive.png/48px-Health_positive.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/a/a2/Health_positive.png/24px-Health_positive.png" loading="lazy" /></a> Excellent
+</td>
+<td align="center"><img alt="No" src="/images/thumb/e/e4/Icon_cross.png/24px-Icon_cross.png" title="No" width="24" height="24" srcset="/images/thumb/e/e4/Icon_cross.png/36px-Icon_cross.png 1.5x, /images/thumb/e/e4/Icon_cross.png/48px-Icon_cross.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/e/e4/Icon_cross.png/24px-Icon_cross.png" loading="lazy" />
+</td>
+<td><i>You are full of vim and vigor!</i>
+</td>
+<td>health ≥ 7
+</td></tr></tbody></table>
+<p>Some traits, tenets and modifiers provide bonuses <img alt="" src="/images/thumb/a/a2/Health_positive.png/24px-Health_positive.png" width="24" height="24" srcset="/images/thumb/a/a2/Health_positive.png/36px-Health_positive.png 1.5x, /images/thumb/a/a2/Health_positive.png/48px-Health_positive.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/a/a2/Health_positive.png/24px-Health_positive.png" loading="lazy" /> Disease resistance (health). This means that any health penalties applied to the character are negated by the amount of disease resistance the character has. Note that there is also <a href="#Disease_resistance_.28fertility.29">disease resistance for fertility</a>.
+</p>
+<h3><span class="mw-headline" id="Health_boosts_and_penalties">Health boosts and penalties</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Attributes&amp;action=edit&amp;section=8" title="Edit section: Health boosts and penalties">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Health effects have different names depending on the value:<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<table class="mildtable">
+
+<tbody><tr>
+<th>Displayed as
+</th>
+<th>Range of values
+</th></tr>
+<tr>
+<td><img alt="" src="/images/thumb/0/0d/Health_negative.png/24px-Health_negative.png" width="24" height="24" srcset="/images/thumb/0/0d/Health_negative.png/36px-Health_negative.png 1.5x, /images/thumb/0/0d/Health_negative.png/48px-Health_negative.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/0/0d/Health_negative.png/24px-Health_negative.png" loading="lazy" /> <span class="effect-red"><b>Catastrophic Health Penalty</b></span>
+</td>
+<td>value &lt; −4
+</td></tr>
+<tr>
+<td><img alt="" src="/images/thumb/0/0d/Health_negative.png/24px-Health_negative.png" width="24" height="24" srcset="/images/thumb/0/0d/Health_negative.png/36px-Health_negative.png 1.5x, /images/thumb/0/0d/Health_negative.png/48px-Health_negative.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/0/0d/Health_negative.png/24px-Health_negative.png" loading="lazy" /> <span class="effect-red"><b>Critical Health Penalty</b></span>
+</td>
+<td>−4 ≤ value &lt; −3
+</td></tr>
+<tr>
+<td><img alt="" src="/images/thumb/0/0d/Health_negative.png/24px-Health_negative.png" width="24" height="24" srcset="/images/thumb/0/0d/Health_negative.png/36px-Health_negative.png 1.5x, /images/thumb/0/0d/Health_negative.png/48px-Health_negative.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/0/0d/Health_negative.png/24px-Health_negative.png" loading="lazy" /> <span class="effect-red"><b>Severe Health Penalty</b></span>
+</td>
+<td>−3 ≤ value &lt; −1
+</td></tr>
+<tr>
+<td><img alt="" src="/images/thumb/0/0d/Health_negative.png/24px-Health_negative.png" width="24" height="24" srcset="/images/thumb/0/0d/Health_negative.png/36px-Health_negative.png 1.5x, /images/thumb/0/0d/Health_negative.png/48px-Health_negative.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/0/0d/Health_negative.png/24px-Health_negative.png" loading="lazy" /> <span class="effect-red"><b>Major Health Penalty</b></span>
+</td>
+<td>−1 ≤ value &lt; −0.75
+</td></tr>
+<tr>
+<td><img alt="" src="/images/thumb/0/0d/Health_negative.png/24px-Health_negative.png" width="24" height="24" srcset="/images/thumb/0/0d/Health_negative.png/36px-Health_negative.png 1.5x, /images/thumb/0/0d/Health_negative.png/48px-Health_negative.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/0/0d/Health_negative.png/24px-Health_negative.png" loading="lazy" /> <span class="effect-red"><b>Moderate Health Penalty</b></span>
+</td>
+<td>−0.75 ≤ value &lt; −0.5
+</td></tr>
+<tr>
+<td><img alt="" src="/images/thumb/0/0d/Health_negative.png/24px-Health_negative.png" width="24" height="24" srcset="/images/thumb/0/0d/Health_negative.png/36px-Health_negative.png 1.5x, /images/thumb/0/0d/Health_negative.png/48px-Health_negative.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/0/0d/Health_negative.png/24px-Health_negative.png" loading="lazy" />  <span class="effect-red"><b>Minor Health Penalty</b></span>
+</td>
+<td>−0.5 ≤ value &lt; −0.25
+</td></tr>
+<tr>
+<td><img alt="" src="/images/thumb/0/0d/Health_negative.png/24px-Health_negative.png" width="24" height="24" srcset="/images/thumb/0/0d/Health_negative.png/36px-Health_negative.png 1.5x, /images/thumb/0/0d/Health_negative.png/48px-Health_negative.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/0/0d/Health_negative.png/24px-Health_negative.png" loading="lazy" /> <span class="effect-red"><b>Tiny Health Penalty</b></span>
+</td>
+<td>−0.25 ≤ value &lt; 0
+</td></tr>
+<tr>
+<td><img alt="" src="/images/thumb/a/a2/Health_positive.png/24px-Health_positive.png" width="24" height="24" srcset="/images/thumb/a/a2/Health_positive.png/36px-Health_positive.png 1.5x, /images/thumb/a/a2/Health_positive.png/48px-Health_positive.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/a/a2/Health_positive.png/24px-Health_positive.png" loading="lazy" /> <span class="effect-green"><b>Small Health Boost</b></span>
+</td>
+<td>0 &lt; value &lt; +0.25
+</td></tr>
+<tr>
+<td><img alt="" src="/images/thumb/a/a2/Health_positive.png/24px-Health_positive.png" width="24" height="24" srcset="/images/thumb/a/a2/Health_positive.png/36px-Health_positive.png 1.5x, /images/thumb/a/a2/Health_positive.png/48px-Health_positive.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/a/a2/Health_positive.png/24px-Health_positive.png" loading="lazy" /> <span class="effect-green"><b>Medium Health Boost</b></span>
+</td>
+<td>+0.25 ≤ value &lt; +0.5
+</td></tr>
+<tr>
+<td><img alt="" src="/images/thumb/a/a2/Health_positive.png/24px-Health_positive.png" width="24" height="24" srcset="/images/thumb/a/a2/Health_positive.png/36px-Health_positive.png 1.5x, /images/thumb/a/a2/Health_positive.png/48px-Health_positive.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/a/a2/Health_positive.png/24px-Health_positive.png" loading="lazy" /> <span class="effect-green"><b>Significant Health Boost</b></span>
+</td>
+<td>+0.5 ≤ value &lt; +0.75
+</td></tr>
+<tr>
+<td><img alt="" src="/images/thumb/a/a2/Health_positive.png/24px-Health_positive.png" width="24" height="24" srcset="/images/thumb/a/a2/Health_positive.png/36px-Health_positive.png 1.5x, /images/thumb/a/a2/Health_positive.png/48px-Health_positive.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/a/a2/Health_positive.png/24px-Health_positive.png" loading="lazy" /> <span class="effect-green"><b>Huge Health Boost</b></span>
+</td>
+<td>+0.75 ≤ value &lt; +1
+</td></tr>
+<tr>
+<td><img alt="" src="/images/thumb/a/a2/Health_positive.png/24px-Health_positive.png" width="24" height="24" srcset="/images/thumb/a/a2/Health_positive.png/36px-Health_positive.png 1.5x, /images/thumb/a/a2/Health_positive.png/48px-Health_positive.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/a/a2/Health_positive.png/24px-Health_positive.png" loading="lazy" /> <span class="effect-green"><b>Massive Health Boost</b></span>
+</td>
+<td>+1 ≤ value &lt; +2
+</td></tr>
+<tr>
+<td><img alt="" src="/images/thumb/a/a2/Health_positive.png/24px-Health_positive.png" width="24" height="24" srcset="/images/thumb/a/a2/Health_positive.png/36px-Health_positive.png 1.5x, /images/thumb/a/a2/Health_positive.png/48px-Health_positive.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/a/a2/Health_positive.png/24px-Health_positive.png" loading="lazy" /> <span class="effect-green"><b>Godlike Health Boost</b></span>
+</td>
+<td>+2 ≤ value
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Death">Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Attributes&amp;action=edit&amp;section=9" title="Edit section: Death">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><img alt="" src="/images/thumb/7/71/Death_natural.png/24px-Death_natural.png" width="24" height="24" srcset="/images/thumb/7/71/Death_natural.png/36px-Death_natural.png 1.5x, /images/thumb/7/71/Death_natural.png/48px-Death_natural.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/7/71/Death_natural.png/24px-Death_natural.png" loading="lazy" /> Death is the end of a character's life. For landed characters, it triggers succession for any held titles. There can be multiple causes:
+</p>
+<ul><li><img alt="" src="/images/thumb/9/94/Health.png/24px-Health.png" width="24" height="24" srcset="/images/thumb/9/94/Health.png/36px-Health.png 1.5x, /images/thumb/9/94/Health.png/48px-Health.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/9/94/Health.png/24px-Health.png" loading="lazy" /> When health is either Poor, Near Death or Dying, there is a chance at a given internal to die. The lower a character's health, the bigger this chance is.</li>
+<li><a href="/File:Secret_murder.png" class="image"><img alt="Secret murder.png" src="/images/thumb/9/9e/Secret_murder.png/24px-Secret_murder.png" width="24" height="24" srcset="/images/thumb/9/9e/Secret_murder.png/36px-Secret_murder.png 1.5x, /images/thumb/9/9e/Secret_murder.png/48px-Secret_murder.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/9/9e/Secret_murder.png/24px-Secret_murder.png" loading="lazy" /></a> Upon success of a <a href="/Murder_scheme" class="mw-redirect" title="Murder scheme">murder scheme</a>, the targetted character dies.</li>
+<li><img alt="" src="/images/thumb/1/14/Decisions.png/24px-Decisions.png" width="24" height="20" srcset="/images/thumb/1/14/Decisions.png/36px-Decisions.png 1.5x, /images/thumb/1/14/Decisions.png/48px-Decisions.png 2x" data-file-width="132" data-file-height="108" data-url="/images/thumb/1/14/Decisions.png/24px-Decisions.png" loading="lazy" /> The <a href="/Attempt_Suicide" class="mw-redirect" title="Attempt Suicide">Attempt Suicide</a> decision has a chance for the character to die.</li>
+<li>Knights may die in battle or in duels, with this chance increasing with low <img alt="" src="/images/thumb/a/a7/War.png/24px-War.png" width="24" height="24" srcset="/images/thumb/a/a7/War.png/36px-War.png 1.5x, /images/thumb/a/a7/War.png/48px-War.png 2x" data-file-width="73" data-file-height="72" data-url="/images/thumb/a/a7/War.png/24px-War.png" loading="lazy" />&#160;prowess and other factors.</li>
+<li>Characters may die when the holding they are currently residing in is captured in a siege.</li>
+<li><a href="/Prison" class="mw-redirect" title="Prison">Imprisoned</a> characters may be executed by their jailors.</li>
+<li>Various events may cause death.</li></ul>
+<h2><span class="mw-headline" id="Fertility">Fertility</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Attributes&amp;action=edit&amp;section=10" title="Edit section: Fertility">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl><dd><i>See also: <a href="/Breeding" title="Breeding">Breeding</a></i><br /></dd></dl>
+<p>Fertility represents a character's chance to have or cause pregnancy. Married couples and heterosexual lovers have a monthly chance to get the woman pregnant based on the average fertility of the two partners.
+</p><p>A character's base fertility is determined by their age:
+</p>
+<table class="mildtable">
+<tbody><tr>
+<th rowspan="2">Gender
+</th>
+<th colspan="9" style="text-align: center;">Age
+</th></tr>
+<tr>
+<th>16–25</th>
+<th>26–30</th>
+<th>31–35</th>
+<th>36–40</th>
+<th>41–45</th>
+<th>46–50</th>
+<th>51–60</th>
+<th>61–70</th>
+<th>70+
+</th></tr>
+<tr>
+<td><img alt="" src="/images/thumb/6/6f/Doctrine_gender_male_dominated.png/24px-Doctrine_gender_male_dominated.png" width="24" height="24" srcset="/images/thumb/6/6f/Doctrine_gender_male_dominated.png/36px-Doctrine_gender_male_dominated.png 1.5x, /images/thumb/6/6f/Doctrine_gender_male_dominated.png/48px-Doctrine_gender_male_dominated.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/6/6f/Doctrine_gender_male_dominated.png/24px-Doctrine_gender_male_dominated.png" loading="lazy" /> Male</td>
+<td>100%</td>
+<td>100%</td>
+<td>100%</td>
+<td>90%</td>
+<td>80%</td>
+<td>80%</td>
+<td>70%</td>
+<td>60%</td>
+<td>50%
+</td></tr>
+<tr>
+<td><img alt="" src="/images/thumb/5/58/Doctrine_gender_female_dominated.png/24px-Doctrine_gender_female_dominated.png" width="24" height="24" srcset="/images/thumb/5/58/Doctrine_gender_female_dominated.png/36px-Doctrine_gender_female_dominated.png 1.5x, /images/thumb/5/58/Doctrine_gender_female_dominated.png/48px-Doctrine_gender_female_dominated.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/5/58/Doctrine_gender_female_dominated.png/24px-Doctrine_gender_female_dominated.png" loading="lazy" /> Female</td>
+<td>100%</td>
+<td>90%</td>
+<td>70%</td>
+<td>50%</td>
+<td>33%</td>
+<td><img alt="No" src="/images/thumb/e/e4/Icon_cross.png/24px-Icon_cross.png" title="No" width="24" height="24" srcset="/images/thumb/e/e4/Icon_cross.png/36px-Icon_cross.png 1.5x, /images/thumb/e/e4/Icon_cross.png/48px-Icon_cross.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/e/e4/Icon_cross.png/24px-Icon_cross.png" loading="lazy" /></td>
+<td><img alt="No" src="/images/thumb/e/e4/Icon_cross.png/24px-Icon_cross.png" title="No" width="24" height="24" srcset="/images/thumb/e/e4/Icon_cross.png/36px-Icon_cross.png 1.5x, /images/thumb/e/e4/Icon_cross.png/48px-Icon_cross.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/e/e4/Icon_cross.png/24px-Icon_cross.png" loading="lazy" /></td>
+<td><img alt="No" src="/images/thumb/e/e4/Icon_cross.png/24px-Icon_cross.png" title="No" width="24" height="24" srcset="/images/thumb/e/e4/Icon_cross.png/36px-Icon_cross.png 1.5x, /images/thumb/e/e4/Icon_cross.png/48px-Icon_cross.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/e/e4/Icon_cross.png/24px-Icon_cross.png" loading="lazy" /></td>
+<td><img alt="No" src="/images/thumb/e/e4/Icon_cross.png/24px-Icon_cross.png" title="No" width="24" height="24" srcset="/images/thumb/e/e4/Icon_cross.png/36px-Icon_cross.png 1.5x, /images/thumb/e/e4/Icon_cross.png/48px-Icon_cross.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/e/e4/Icon_cross.png/24px-Icon_cross.png" loading="lazy" />
+</td></tr></tbody></table>
+<p><a href="/Traits" title="Traits">Traits</a>, such as <a href="/Lustful" class="mw-redirect" title="Lustful">lustful</a> or <a href="/Melancholic" class="mw-redirect" title="Melancholic">melancholic</a>, can affect fertility. Concubines and secondary spouses effectively have half fertility. In addition a mother loses 5% fertility for each childbirth. Fertility is reduced by 15% between non-ruler characters.
+</p><p>Note: you have a maximal number of children&#160;: 9 living children plus 2 per additional consort (so 15 with 4 wives). This does not stop event driven pregnancies.
+</p>
+<h3><span id="Disease_resistance_(fertility)"></span><span class="mw-headline" id="Disease_resistance_.28fertility.29">Disease resistance (fertility)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Attributes&amp;action=edit&amp;section=11" title="Edit section: Disease resistance (fertility)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>It is possible for fertility penalties to be negated by the <img alt="" src="/images/thumb/e/e5/Fertility_positive.png/24px-Fertility_positive.png" width="24" height="24" srcset="/images/thumb/e/e5/Fertility_positive.png/36px-Fertility_positive.png 1.5x, /images/thumb/e/e5/Fertility_positive.png/48px-Fertility_positive.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/e/e5/Fertility_positive.png/24px-Fertility_positive.png" loading="lazy" /> Disease resistance (fertility) modifier. Currently, only the <a href="/Iron_Constitution" class="mw-redirect" title="Iron Constitution">Iron Constitution</a> perk in the Whole of Body tree provides some.
+</p>
+<h2><span class="mw-headline" id="Stress">Stress</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Attributes&amp;action=edit&amp;section=12" title="Edit section: Stress">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl><dd><i>See also: <a href="/Traits#Coping_mechanisms" title="Traits">Traits#Coping mechanisms</a></i><br /></dd></dl>
+<p><b>Stress</b> is a measure of a character's mental health and is gained whenever a character responds to an event or decision in a way that conflicts with their <a href="/Personality_traits" class="mw-redirect" title="Personality traits">personality traits</a>, someone they're close to dies, the character is <a href="/Imprisoned" class="mw-redirect" title="Imprisoned">imprisoned</a> in a dungeon (note: not house arrest), or is tortured. Serving as a <a href="/index.php?title=Guardian&amp;action=edit&amp;redlink=1" class="new" title="Guardian (page does not exist)">guardian</a> for a <a href="/index.php?title=Ward&amp;action=edit&amp;redlink=1" class="new" title="Ward (page does not exist)">ward</a> can also cause stress if the guardian elects to change the child's <a href="/Traits#Personality_traits" title="Traits">personality traits</a>.  Stress ranges from 0 to 400, with higher levels of stress imposing various penalties and making the character vulnerable to mental break events.
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Personality Trait</th>
+<th>Stressful Interaction
+</th></tr>
+<tr>
+<td>Ambitious
+</td>
+<td>grant independence, grant titles (at/below domain limit)
+</td></tr>
+<tr>
+<td>Arrogant
+</td>
+<td>grant independence, legitimize bastard
+</td></tr>
+<tr>
+<td>Callous
+</td>
+<td>release from prison (w/out demands)
+</td></tr>
+<tr>
+<td>Compassionate
+</td>
+<td>kick from court, disinherit, denounce, break up with lover, dismiss concubine, fabricate hook, imprison, move to dungeon, execution, start murder, start abduct
+</td></tr>
+<tr>
+<td>Content
+</td>
+<td>claim throne, force onto council
+</td></tr>
+<tr>
+<td>Craven
+</td>
+<td>join war
+</td></tr>
+<tr>
+<td>Cynical
+</td>
+<td>temporal condemnation, host honored guest, literalist debate
+</td></tr>
+<tr>
+<td>Forgiving
+</td>
+<td>disinherit, denounce, imprison (w/reason), move to dungeon, execution devour, execution (w/ reason)
+</td></tr>
+<tr>
+<td>Generous
+</td>
+<td>revoke leased title, liege modify vassal contract (w/ tyranny), demand payment
+</td></tr>
+<tr>
+<td>Greedy
+</td>
+<td>grant independence, gift, grant titles (at/below domain limit), invite agent to scheme (w/ gift), grant vassal
+</td></tr>
+<tr>
+<td>Gregarious
+</td>
+<td>kick from court
+</td></tr>
+<tr>
+<td>Honest
+</td>
+<td>invite agent to scheme, elope, fabricate hook, start murder, start abduct
+</td></tr>
+<tr>
+<td>Just
+</td>
+<td>elope, liege modify vassal contract (w/ tyranny), claim throne, fabricate hook, buy claim, imprison (w/out reason), execution (w/out reason), start murder, start abduct, retract vassal (from dejure liege), join independence faction (against dejure liege)
+</td></tr>
+<tr>
+<td>Lustful
+</td>
+<td>break up with lover
+</td></tr>
+<tr>
+<td>Paranoid
+</td>
+<td>recruit guest, invite agent to scheme, send child to guardian
+</td></tr>
+<tr>
+<td>Sadistic
+</td>
+<td>move to house arrest, release from prison (w/out demands)
+</td></tr>
+<tr>
+<td>Shy
+</td>
+<td>negotiate alliance, perk alliance, join war, recruit guest, invite to court, host honored guest, befriend, court, sway
+</td></tr>
+<tr>
+<td>Stubborn
+</td>
+<td>restore inheritance, forgive
+</td></tr>
+<tr>
+<td>Vengeful
+</td>
+<td>restore inheritance, forgive, move to house arrest
+</td></tr>
+<tr>
+<td>Zealous
+</td>
+<td>revoke leased title
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Mental_Breaks">Mental Breaks</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Attributes&amp;action=edit&amp;section=13" title="Edit section: Mental Breaks">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A character breaching the threshold of 100, 200, or 300 stress for the first time will immediately suffer a Mental Break. Mental breaks range in severity from level 1 to 3 and grant the option to either <img alt="" src="/images/thumb/b/b4/Stress_loss.png/24px-Stress_loss.png" width="24" height="24" srcset="/images/thumb/b/b4/Stress_loss.png/36px-Stress_loss.png 1.5x, /images/thumb/b/b4/Stress_loss.png/48px-Stress_loss.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/b/b4/Stress_loss.png/24px-Stress_loss.png" loading="lazy" /> lose some stress with a choice of gaining one of two traits (a <a href="/Traits#Coping_mechanisms" title="Traits">Coping Mechanism</a> or worse, see table below) or <img alt="" src="/images/thumb/b/bd/Stress_gain.png/24px-Stress_gain.png" width="24" height="24" srcset="/images/thumb/b/bd/Stress_gain.png/36px-Stress_gain.png 1.5x, /images/thumb/b/bd/Stress_gain.png/48px-Stress_gain.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/b/bd/Stress_gain.png/24px-Stress_gain.png" loading="lazy" /> gain additional stress. A level 3 mental break event can sometimes <img alt="" src="/images/thumb/c/c9/Trait_wounded_1.png/24px-Trait_wounded_1.png" width="24" height="24" srcset="/images/thumb/c/c9/Trait_wounded_1.png/36px-Trait_wounded_1.png 1.5x, /images/thumb/c/c9/Trait_wounded_1.png/48px-Trait_wounded_1.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/c/c9/Trait_wounded_1.png/24px-Trait_wounded_1.png" loading="lazy" /> injure or <img alt="" src="/images/thumb/7/71/Death_natural.png/24px-Death_natural.png" width="24" height="24" srcset="/images/thumb/7/71/Death_natural.png/36px-Death_natural.png 1.5x, /images/thumb/7/71/Death_natural.png/48px-Death_natural.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/7/71/Death_natural.png/24px-Death_natural.png" loading="lazy" /> kill the character, cause them to kill another character in their court (including their own heir) gaining the <img alt="" src="/images/thumb/c/c0/Trait_murderer.png/24px-Trait_murderer.png" width="24" height="24" srcset="/images/thumb/c/c0/Trait_murderer.png/36px-Trait_murderer.png 1.5x, /images/thumb/c/c0/Trait_murderer.png/48px-Trait_murderer.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/c/c0/Trait_murderer.png/24px-Trait_murderer.png" loading="lazy" />&#160;Murderer trait, or force them to <a href="/index.php?title=Abdication&amp;action=edit&amp;redlink=1" class="new" title="Abdication (page does not exist)">abdicate</a>. If a character reaches 400 Stress, it will trigger a level 3 mental break event and they will lose 100 Stress.
+</p><p>Mental break events can only trigger once every 5 years (8 years with the "Mental Resilience" lifestyle perk from the "Whole of Body" lifestyle). If a character does not reduce their stress below 100 before this time is up, they will suffer another mental break. All coping mechanism traits bestow a stacking <img alt="" src="/images/thumb/b/b4/Stress_loss.png/24px-Stress_loss.png" width="24" height="24" srcset="/images/thumb/b/b4/Stress_loss.png/36px-Stress_loss.png 1.5x, /images/thumb/b/b4/Stress_loss.png/48px-Stress_loss.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/b/b4/Stress_loss.png/24px-Stress_loss.png" loading="lazy" /> <span class="effect-green"><b>+20% Stress loss</b></span> benefit and granting a related <a href="/Decisions#Coping_actions" title="Decisions">stress-reducing decision</a> on a 3-year cooldown, making it easier to de-stress before the next mental break occurs.
+</p><p>Your character's stress level is indicated by a reddish bar to the left of your character's portrait at the lower left corner of the map screen.
+</p>
+<table class="mildtable" style="text-align: center;">
+<tbody><tr>
+<th>Level
+</th>
+<th><img alt="" src="/images/thumb/8/85/Stress.png/24px-Stress.png" width="24" height="24" srcset="/images/thumb/8/85/Stress.png/36px-Stress.png 1.5x, /images/thumb/8/85/Stress.png/48px-Stress.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/8/85/Stress.png/24px-Stress.png" loading="lazy" />&#160;Stress
+</th>
+<th><img alt="" src="/images/thumb/e/e5/Fertility_positive.png/24px-Fertility_positive.png" width="24" height="24" srcset="/images/thumb/e/e5/Fertility_positive.png/36px-Fertility_positive.png 1.5x, /images/thumb/e/e5/Fertility_positive.png/48px-Fertility_positive.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/e/e5/Fertility_positive.png/24px-Fertility_positive.png" loading="lazy" />&#160;Fertility
+</th>
+<th><img alt="" src="/images/thumb/0/0d/Health_negative.png/24px-Health_negative.png" width="24" height="24" srcset="/images/thumb/0/0d/Health_negative.png/36px-Health_negative.png 1.5x, /images/thumb/0/0d/Health_negative.png/48px-Health_negative.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/0/0d/Health_negative.png/24px-Health_negative.png" loading="lazy" />&#160;Health penalty
+</th>
+<th><img alt="" src="/images/thumb/1/14/Decisions.png/24px-Decisions.png" width="24" height="20" srcset="/images/thumb/1/14/Decisions.png/36px-Decisions.png 1.5x, /images/thumb/1/14/Decisions.png/48px-Decisions.png 2x" data-file-width="132" data-file-height="108" data-url="/images/thumb/1/14/Decisions.png/24px-Decisions.png" loading="lazy" /> Attempt Suicide decision
+</th>
+<th><img alt="" src="/images/thumb/d/dd/Unknown.png/24px-Unknown.png" width="24" height="24" srcset="/images/thumb/d/dd/Unknown.png/36px-Unknown.png 1.5x, /images/thumb/d/dd/Unknown.png/48px-Unknown.png 2x" data-file-width="192" data-file-height="192" data-url="/images/thumb/d/dd/Unknown.png/24px-Unknown.png" loading="lazy" /> Mental break traits
+</th></tr>
+<tr>
+<td><a href="/File:Stress_level_0.png" class="image"><img alt="Stress level 0.png" src="/images/0/07/Stress_level_0.png" width="60" height="60" data-file-width="60" data-file-height="60" data-url="/images/0/07/Stress_level_0.png" loading="lazy" /></a>
+</td>
+<td>0–99
+</td>
+<td><b>0</b>
+</td>
+<td><b>None</b>
+</td>
+<td><img alt="No" src="/images/thumb/e/e4/Icon_cross.png/24px-Icon_cross.png" title="No" width="24" height="24" srcset="/images/thumb/e/e4/Icon_cross.png/36px-Icon_cross.png 1.5x, /images/thumb/e/e4/Icon_cross.png/48px-Icon_cross.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/e/e4/Icon_cross.png/24px-Icon_cross.png" loading="lazy" />
+</td>
+<td style="text-align: left;">No mental breaks
+</td></tr>
+<tr>
+<td><a href="/File:Stress_level_1.png" class="image"><img alt="Stress level 1.png" src="/images/d/d8/Stress_level_1.png" width="60" height="60" data-file-width="60" data-file-height="60" data-url="/images/d/d8/Stress_level_1.png" loading="lazy" /></a>
+</td>
+<td>100–199
+</td>
+<td><span class="effect-red"><b>−10%</b></span>
+</td>
+<td><b>None</b>
+</td>
+<td><img alt="No" src="/images/thumb/e/e4/Icon_cross.png/24px-Icon_cross.png" title="No" width="24" height="24" srcset="/images/thumb/e/e4/Icon_cross.png/36px-Icon_cross.png 1.5x, /images/thumb/e/e4/Icon_cross.png/48px-Icon_cross.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/e/e4/Icon_cross.png/24px-Icon_cross.png" loading="lazy" />
+</td>
+<td style="text-align: left;"><a href="/Traits#Coping_mechanisms" title="Traits">Coping mechanism</a>
+</td></tr>
+<tr>
+<td><a href="/File:Stress_level_2.png" class="image"><img alt="Stress level 2.png" src="/images/f/f3/Stress_level_2.png" width="60" height="60" data-file-width="60" data-file-height="60" data-url="/images/f/f3/Stress_level_2.png" loading="lazy" /></a>
+</td>
+<td>200–299
+</td>
+<td><span class="effect-red"><b>−30%</b></span>
+</td>
+<td><span class="effect-red"><b>Severe</b></span>
+</td>
+<td><img alt="No" src="/images/thumb/e/e4/Icon_cross.png/24px-Icon_cross.png" title="No" width="24" height="24" srcset="/images/thumb/e/e4/Icon_cross.png/36px-Icon_cross.png 1.5x, /images/thumb/e/e4/Icon_cross.png/48px-Icon_cross.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/e/e4/Icon_cross.png/24px-Icon_cross.png" loading="lazy" />
+</td>
+<td style="text-align: left;"><a href="/Traits#Coping_mechanisms" title="Traits">Coping mechanism</a>, <a href="/File:Trait_arbitrary.png" class="image"><img alt="Trait arbitrary.png" src="/images/thumb/6/67/Trait_arbitrary.png/35px-Trait_arbitrary.png" width="35" height="35" srcset="/images/thumb/6/67/Trait_arbitrary.png/53px-Trait_arbitrary.png 1.5x, /images/thumb/6/67/Trait_arbitrary.png/70px-Trait_arbitrary.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/6/67/Trait_arbitrary.png/35px-Trait_arbitrary.png" loading="lazy" /></a> <a href="/Arbitrary" class="mw-redirect" title="Arbitrary">Arbitrary</a>, <a href="/File:Trait_witch.png" class="image"><img alt="Trait witch.png" src="/images/thumb/8/80/Trait_witch.png/35px-Trait_witch.png" width="35" height="35" srcset="/images/thumb/8/80/Trait_witch.png/53px-Trait_witch.png 1.5x, /images/thumb/8/80/Trait_witch.png/70px-Trait_witch.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/8/80/Trait_witch.png/35px-Trait_witch.png" loading="lazy" /></a> <a href="/Witch" class="mw-redirect" title="Witch">Witch</a>
+</td></tr>
+<tr>
+<td><a href="/File:Stress_level_3.png" class="image"><img alt="Stress level 3.png" src="/images/4/4a/Stress_level_3.png" width="60" height="60" data-file-width="60" data-file-height="60" data-url="/images/4/4a/Stress_level_3.png" loading="lazy" /></a>
+</td>
+<td>300–399
+</td>
+<td><span class="effect-red"><b>−50%</b></span>
+</td>
+<td><span class="effect-red"><b>Severe</b></span>
+</td>
+<td><img alt="Yes" src="/images/thumb/0/0f/Icon_check.png/24px-Icon_check.png" title="Yes" width="24" height="24" srcset="/images/thumb/0/0f/Icon_check.png/36px-Icon_check.png 1.5x, /images/thumb/0/0f/Icon_check.png/48px-Icon_check.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/0/0f/Icon_check.png/24px-Icon_check.png" loading="lazy" />
+</td>
+<td style="text-align: left;"><a href="/File:Trait_wrathful.png" class="image"><img alt="Trait wrathful.png" src="/images/thumb/4/42/Trait_wrathful.png/35px-Trait_wrathful.png" width="35" height="35" srcset="/images/thumb/4/42/Trait_wrathful.png/53px-Trait_wrathful.png 1.5x, /images/thumb/4/42/Trait_wrathful.png/70px-Trait_wrathful.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/4/42/Trait_wrathful.png/35px-Trait_wrathful.png" loading="lazy" /></a> <a href="/Wrathful" class="mw-redirect" title="Wrathful">Wrathful</a>, <a href="/File:Trait_lunatic.png" class="image"><img alt="Trait lunatic.png" src="/images/thumb/d/d9/Trait_lunatic.png/35px-Trait_lunatic.png" width="35" height="35" srcset="/images/thumb/d/d9/Trait_lunatic.png/53px-Trait_lunatic.png 1.5x, /images/thumb/d/d9/Trait_lunatic.png/70px-Trait_lunatic.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/d/d9/Trait_lunatic.png/35px-Trait_lunatic.png" loading="lazy" /></a> <a href="/Lunatic" class="mw-redirect" title="Lunatic">Lunatic</a>, <a href="/File:Trait_depressed.png" class="image"><img alt="Trait depressed.png" src="/images/thumb/1/1c/Trait_depressed.png/35px-Trait_depressed.png" width="35" height="35" srcset="/images/thumb/1/1c/Trait_depressed.png/53px-Trait_depressed.png 1.5x, /images/thumb/1/1c/Trait_depressed.png/70px-Trait_depressed.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/1/1c/Trait_depressed.png/35px-Trait_depressed.png" loading="lazy" /></a> <a href="/Melancholic" class="mw-redirect" title="Melancholic">Melancholic</a>, <a href="/File:Trait_murderer.png" class="image"><img alt="Trait murderer.png" src="/images/thumb/c/c0/Trait_murderer.png/35px-Trait_murderer.png" width="35" height="35" srcset="/images/thumb/c/c0/Trait_murderer.png/53px-Trait_murderer.png 1.5x, /images/thumb/c/c0/Trait_murderer.png/70px-Trait_murderer.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/c/c0/Trait_murderer.png/35px-Trait_murderer.png" loading="lazy" /></a> <a href="/Murderer" class="mw-redirect" title="Murderer">Murderer</a>, <img alt="" src="/images/thumb/7/71/Death_natural.png/24px-Death_natural.png" width="24" height="24" srcset="/images/thumb/7/71/Death_natural.png/36px-Death_natural.png 1.5x, /images/thumb/7/71/Death_natural.png/48px-Death_natural.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/7/71/Death_natural.png/24px-Death_natural.png" loading="lazy" /> <a href="/Death" class="mw-redirect" title="Death">Death</a>, or <a href="/index.php?title=Abdication&amp;action=edit&amp;redlink=1" class="new" title="Abdication (page does not exist)">Abdication</a>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Age">Age</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Attributes&amp;action=edit&amp;section=14" title="Edit section: Age">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A character is considered a child if they are below 16 years and an adult once they reach 16 years. A character can die of old age after reaching 60 years. Each starting character will have a number of lifestyle perks unlocked based on its age.
+</p>
+<ul><li>Once a character reaches the age of 25, they have a 7.5% chance to lose <img alt="" src="/images/thumb/9/94/Health.png/24px-Health.png" width="24" height="24" srcset="/images/thumb/9/94/Health.png/36px-Health.png 1.5x, /images/thumb/9/94/Health.png/48px-Health.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/9/94/Health.png/24px-Health.png" loading="lazy" /> <span class="effect-red"><b>−0.125</b></span> health each year. The chance increases by 2.2% each year.</li>
+<li>Once a character reaches the age of 45, they have a 10% chance to lose <img alt="" src="/images/thumb/a/a7/War.png/24px-War.png" width="24" height="24" srcset="/images/thumb/a/a7/War.png/36px-War.png 1.5x, /images/thumb/a/a7/War.png/48px-War.png 2x" data-file-width="73" data-file-height="72" data-url="/images/thumb/a/a7/War.png/24px-War.png" loading="lazy" /> <span class="effect-red"><b>1</b></span> prowess each year. The chance increases by 1.5% each year. A dynasty can prevent this by completing the <a href="/File:Kin_legacy_track.png" class="image"><img alt="Kin legacy track.png" src="/images/thumb/3/3d/Kin_legacy_track.png/24px-Kin_legacy_track.png" width="24" height="24" srcset="/images/thumb/3/3d/Kin_legacy_track.png/36px-Kin_legacy_track.png 1.5x, /images/thumb/3/3d/Kin_legacy_track.png/48px-Kin_legacy_track.png 2x" data-file-width="140" data-file-height="140" data-url="/images/thumb/3/3d/Kin_legacy_track.png/24px-Kin_legacy_track.png" loading="lazy" /></a> Kin legacy.</li></ul>
+<h3><span class="mw-headline" id="Education">Education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Attributes&amp;action=edit&amp;section=15" title="Edit section: Education">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Characters between the age of 6 and 9 can be given an Education Focus geared towards one of the skills. This will default to one of the two attributes in their Childhood trait, but a parent can choose it manually with the button at the lower left of their portrait. When the character becomes an adult, they will gain a corresponding education trait.
+</p><p>Once an Education Focus is selected the game will track a hidden education score. Each year the score has a 60% chance to increase by 2 and a 40% chance to not increase. Once the character reaches the age of 16 it will gain an education trait based on that score.
+</p>
+<table class="wikitable" style="text-align: center;">
+<tbody><tr>
+<th>Score
+</th>
+<th>Education trait level
+</th></tr>
+<tr>
+<td>0-6</td>
+<td>★
+</td></tr>
+<tr>
+<td>7-10</td>
+<td>★★
+</td></tr>
+<tr>
+<td>11-14</td>
+<td>★★★
+</td></tr>
+<tr>
+<td>15+</td>
+<td>★★★★
+</td></tr></tbody></table>
+<p>The chance of the child getting a higher tier education is increased by the guardian's relevant skill plus half of their learning skill, as well as the child or guardian having a positive intelligence trait (<img alt="" src="/images/thumb/b/b9/Trait_intellect_good_1.png/24px-Trait_intellect_good_1.png" width="24" height="24" srcset="/images/thumb/b/b9/Trait_intellect_good_1.png/36px-Trait_intellect_good_1.png 1.5x, /images/thumb/b/b9/Trait_intellect_good_1.png/48px-Trait_intellect_good_1.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/b/b9/Trait_intellect_good_1.png/24px-Trait_intellect_good_1.png" loading="lazy" />&#160;Quick/<img alt="" src="/images/thumb/f/f9/Trait_shrewd.png/24px-Trait_shrewd.png" width="24" height="24" srcset="/images/thumb/f/f9/Trait_shrewd.png/36px-Trait_shrewd.png 1.5x, /images/thumb/f/f9/Trait_shrewd.png/48px-Trait_shrewd.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/f/f9/Trait_shrewd.png/24px-Trait_shrewd.png" loading="lazy" />&#160;Shrewd, <img alt="" src="/images/thumb/8/8c/Trait_intellect_good_2.png/24px-Trait_intellect_good_2.png" width="24" height="24" srcset="/images/thumb/8/8c/Trait_intellect_good_2.png/36px-Trait_intellect_good_2.png 1.5x, /images/thumb/8/8c/Trait_intellect_good_2.png/48px-Trait_intellect_good_2.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/8/8c/Trait_intellect_good_2.png/24px-Trait_intellect_good_2.png" loading="lazy" />&#160;Intelligent, <img alt="" src="/images/thumb/6/63/Trait_intellect_good_3.png/24px-Trait_intellect_good_3.png" width="24" height="24" srcset="/images/thumb/6/63/Trait_intellect_good_3.png/36px-Trait_intellect_good_3.png 1.5x, /images/thumb/6/63/Trait_intellect_good_3.png/48px-Trait_intellect_good_3.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/6/63/Trait_intellect_good_3.png/24px-Trait_intellect_good_3.png" loading="lazy" />&#160;Genius). The guardian or child having a negative intelligence trait (<img alt="" src="/images/thumb/c/c9/Trait_intellect_bad_1.png/24px-Trait_intellect_bad_1.png" width="24" height="24" srcset="/images/thumb/c/c9/Trait_intellect_bad_1.png/36px-Trait_intellect_bad_1.png 1.5x, /images/thumb/c/c9/Trait_intellect_bad_1.png/48px-Trait_intellect_bad_1.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/c/c9/Trait_intellect_bad_1.png/24px-Trait_intellect_bad_1.png" loading="lazy" />&#160;Slow, <img alt="" src="/images/thumb/e/e6/Trait_intellect_bad_2.png/24px-Trait_intellect_bad_2.png" width="24" height="24" srcset="/images/thumb/e/e6/Trait_intellect_bad_2.png/36px-Trait_intellect_bad_2.png 1.5x, /images/thumb/e/e6/Trait_intellect_bad_2.png/48px-Trait_intellect_bad_2.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/e/e6/Trait_intellect_bad_2.png/24px-Trait_intellect_bad_2.png" loading="lazy" />&#160;Stupid, <img alt="" src="/images/thumb/7/75/Trait_intellect_bad_3.png/24px-Trait_intellect_bad_3.png" width="24" height="24" srcset="/images/thumb/7/75/Trait_intellect_bad_3.png/36px-Trait_intellect_bad_3.png 1.5x, /images/thumb/7/75/Trait_intellect_bad_3.png/48px-Trait_intellect_bad_3.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/7/75/Trait_intellect_bad_3.png/24px-Trait_intellect_bad_3.png" loading="lazy" />&#160;Imbecile) will negatively affect their education, as will pushing them to an Education Focus that does not match their Childhood trait.
+</p><p>The guardian's council having a spouse that is focused on patronage, has a high learning education, high learning skill, or <img alt="" src="/images/thumb/d/d5/Trait_scholar.png/24px-Trait_scholar.png" width="24" height="24" srcset="/images/thumb/d/d5/Trait_scholar.png/36px-Trait_scholar.png 1.5x, /images/thumb/d/d5/Trait_scholar.png/48px-Trait_scholar.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/d/d5/Trait_scholar.png/24px-Trait_scholar.png" loading="lazy" />&#160;scholar trait, will increase the chance of the ward getting a better education.
+</p><p>A child of a culture that discovered the Knighthood <a href="/Innovation" title="Innovation">innovation</a>, has a Martial education focus, and is of a gender that can be knighted will also be trained as a squire, receiving a Prowess education trait when they come of age <i>in addition</i> to a Martial one. For Prowess, the educator's abilities or any other effects that enhance education are irrelevant; only the child's traits matter. Traits that boost Prowess (<img alt="" src="/images/thumb/9/9b/Trait_physique_good_1.png/24px-Trait_physique_good_1.png" width="24" height="24" srcset="/images/thumb/9/9b/Trait_physique_good_1.png/36px-Trait_physique_good_1.png 1.5x, /images/thumb/9/9b/Trait_physique_good_1.png/48px-Trait_physique_good_1.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/9/9b/Trait_physique_good_1.png/24px-Trait_physique_good_1.png" loading="lazy" />&#160;Hale, <img alt="" src="/images/thumb/1/1a/Trait_physique_good_2.png/24px-Trait_physique_good_2.png" width="24" height="24" srcset="/images/thumb/1/1a/Trait_physique_good_2.png/36px-Trait_physique_good_2.png 1.5x, /images/thumb/1/1a/Trait_physique_good_2.png/48px-Trait_physique_good_2.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/1/1a/Trait_physique_good_2.png/24px-Trait_physique_good_2.png" loading="lazy" />&#160;Robust, <img alt="" src="/images/thumb/7/76/Trait_physique_good_3.png/24px-Trait_physique_good_3.png" width="24" height="24" srcset="/images/thumb/7/76/Trait_physique_good_3.png/36px-Trait_physique_good_3.png 1.5x, /images/thumb/7/76/Trait_physique_good_3.png/48px-Trait_physique_good_3.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/7/76/Trait_physique_good_3.png/24px-Trait_physique_good_3.png" loading="lazy" />&#160;Herculean, <img alt="" src="/images/thumb/c/c2/Trait_strong.png/24px-Trait_strong.png" width="24" height="24" srcset="/images/thumb/c/c2/Trait_strong.png/36px-Trait_strong.png 1.5x, /images/thumb/c/c2/Trait_strong.png/48px-Trait_strong.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/c/c2/Trait_strong.png/24px-Trait_strong.png" loading="lazy" />&#160;Strong, <img alt="" src="/images/thumb/9/99/Trait_giant.png/24px-Trait_giant.png" width="24" height="24" srcset="/images/thumb/9/99/Trait_giant.png/36px-Trait_giant.png 1.5x, /images/thumb/9/99/Trait_giant.png/48px-Trait_giant.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/9/99/Trait_giant.png/24px-Trait_giant.png" loading="lazy" />&#160;Giant) will increase the chance of a high-tier Prowess education, while negative Prowess and other sickly traits (<img alt="" src="/images/thumb/3/33/Trait_physique_bad_1.png/24px-Trait_physique_bad_1.png" width="24" height="24" srcset="/images/thumb/3/33/Trait_physique_bad_1.png/36px-Trait_physique_bad_1.png 1.5x, /images/thumb/3/33/Trait_physique_bad_1.png/48px-Trait_physique_bad_1.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/3/33/Trait_physique_bad_1.png/24px-Trait_physique_bad_1.png" loading="lazy" />&#160;Delicate, <img alt="" src="/images/thumb/b/ba/Trait_physique_bad_2.png/24px-Trait_physique_bad_2.png" width="24" height="24" srcset="/images/thumb/b/ba/Trait_physique_bad_2.png/36px-Trait_physique_bad_2.png 1.5x, /images/thumb/b/ba/Trait_physique_bad_2.png/48px-Trait_physique_bad_2.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/b/ba/Trait_physique_bad_2.png/24px-Trait_physique_bad_2.png" loading="lazy" />&#160;Frail, <img alt="" src="/images/thumb/8/84/Trait_physique_bad_3.png/24px-Trait_physique_bad_3.png" width="24" height="24" srcset="/images/thumb/8/84/Trait_physique_bad_3.png/36px-Trait_physique_bad_3.png 1.5x, /images/thumb/8/84/Trait_physique_bad_3.png/48px-Trait_physique_bad_3.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/8/84/Trait_physique_bad_3.png/24px-Trait_physique_bad_3.png" loading="lazy" />&#160;Feeble, <img alt="" src="/images/thumb/f/f7/Trait_weak.png/24px-Trait_weak.png" width="24" height="24" srcset="/images/thumb/f/f7/Trait_weak.png/36px-Trait_weak.png 1.5x, /images/thumb/f/f7/Trait_weak.png/48px-Trait_weak.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/f/f7/Trait_weak.png/24px-Trait_weak.png" loading="lazy" />&#160;Weak, <img alt="" src="/images/thumb/c/cc/Trait_dwarf.png/24px-Trait_dwarf.png" width="24" height="24" srcset="/images/thumb/c/cc/Trait_dwarf.png/36px-Trait_dwarf.png 1.5x, /images/thumb/c/cc/Trait_dwarf.png/48px-Trait_dwarf.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/c/cc/Trait_dwarf.png/24px-Trait_dwarf.png" loading="lazy" />&#160;Dwarf, <img alt="" src="/images/thumb/3/3f/Trait_spindly.png/24px-Trait_spindly.png" width="24" height="24" srcset="/images/thumb/3/3f/Trait_spindly.png/36px-Trait_spindly.png 1.5x, /images/thumb/3/3f/Trait_spindly.png/48px-Trait_spindly.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/3/3f/Trait_spindly.png/24px-Trait_spindly.png" loading="lazy" />&#160;Spindly, <img alt="" src="/images/thumb/7/7f/Trait_wheezing.png/24px-Trait_wheezing.png" width="24" height="24" srcset="/images/thumb/7/7f/Trait_wheezing.png/36px-Trait_wheezing.png 1.5x, /images/thumb/7/7f/Trait_wheezing.png/48px-Trait_wheezing.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/7/7f/Trait_wheezing.png/24px-Trait_wheezing.png" loading="lazy" />&#160;Wheezing, <img alt="" src="/images/thumb/d/df/Trait_hunchbacked.png/24px-Trait_hunchbacked.png" width="24" height="24" srcset="/images/thumb/d/df/Trait_hunchbacked.png/36px-Trait_hunchbacked.png 1.5x, /images/thumb/d/df/Trait_hunchbacked.png/48px-Trait_hunchbacked.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/d/df/Trait_hunchbacked.png/24px-Trait_hunchbacked.png" loading="lazy" />&#160;Hunchbacked, <img alt="" src="/images/thumb/7/70/Trait_inbred.png/24px-Trait_inbred.png" width="24" height="24" srcset="/images/thumb/7/70/Trait_inbred.png/36px-Trait_inbred.png 1.5x, /images/thumb/7/70/Trait_inbred.png/48px-Trait_inbred.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/7/70/Trait_inbred.png/24px-Trait_inbred.png" loading="lazy" />&#160;Inbred, <img alt="" src="/images/thumb/3/36/Trait_bleeder.png/24px-Trait_bleeder.png" width="24" height="24" srcset="/images/thumb/3/36/Trait_bleeder.png/36px-Trait_bleeder.png 1.5x, /images/thumb/3/36/Trait_bleeder.png/48px-Trait_bleeder.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/3/36/Trait_bleeder.png/24px-Trait_bleeder.png" loading="lazy" />&#160;Bleeder) will diminish it.
+</p><p>If the child has a guardian of a different faith or culture, when given the guardian, it can be specified whether the child should be raised in the parent's or guardian's faith and/or culture. The child also has a chance to copy the guardian's personality traits. If the guardian has the Witch trait or secret, they will have the option to try converting their wards to witchcraft.
+</p><p>A guardian and a ward have <img alt="" src="/images/thumb/9/97/Opinion.png/24px-Opinion.png" width="24" height="24" srcset="/images/9/97/Opinion.png 1.5x" data-file-width="30" data-file-height="30" data-url="/images/thumb/9/97/Opinion.png/24px-Opinion.png" loading="lazy" /> <span class="effect-green"><b>+15</b></span> opinion towards each other.
+</p>
+<h2><span class="mw-headline" id="Education_traits">Education traits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Attributes&amp;action=edit&amp;section=16" title="Edit section: Education traits">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>With each child's base success chance of an Education Roll at 60%, a child has a 10% of a level one education, 42% of a level two education, 41% of a level three education, and 7% chance of a level four education (This assumes the child does not have a guardian for any point). There are nine Education Rolls and the child must be successful on almost every Education Roll to achieve the four star education trait!
+</p>
+<table class="wikitable" style="text-align:right;">
+
+<tbody><tr style="text-align:left;">
+<th colspan="5" style="text-align:center;">Education Trait Level Chances
+</th></tr>
+<tr style="text-align:center;">
+<th style="text-align:left;">Success (%)
+</th>
+<th>1
+</th>
+<th>2
+</th>
+<th>3
+</th>
+<th>4
+</th></tr>
+<tr>
+<td style="text-align:left;">50
+</td>
+<td>25.2%
+</td>
+<td>49.2%
+</td>
+<td>23.4%
+</td>
+<td>2.0%
+</td></tr>
+<tr>
+<td style="text-align:left;">60 (Base)
+</td>
+<td>9.9%
+</td>
+<td>41.8%
+</td>
+<td>41.2%
+</td>
+<td>7.1%
+</td></tr>
+<tr>
+<td style="text-align:left;">63
+</td>
+<td>6.9%
+</td>
+<td>37.2%
+</td>
+<td>46.0%
+</td>
+<td>9.8%
+</td></tr>
+<tr>
+<td style="text-align:left;">66
+</td>
+<td>4.7%
+</td>
+<td>31.9%
+</td>
+<td>50.0%
+</td>
+<td>13.4%
+</td></tr>
+<tr>
+<td style="text-align:left;">70
+</td>
+<td>2.5%
+</td>
+<td>24.5%
+</td>
+<td>53.4%
+</td>
+<td>19.6%
+</td></tr>
+<tr>
+<td style="text-align:left;">75
+</td>
+<td>1.0%
+</td>
+<td>15.6%
+</td>
+<td>53.4%
+</td>
+<td>30.0%
+</td></tr>
+<tr>
+<td style="text-align:left;">80
+</td>
+<td>0.3%
+</td>
+<td>8.3%
+</td>
+<td>47.8%
+</td>
+<td>43.6%
+</td></tr></tbody></table>
+<p>The second level perk of the Dynasty Legacy "Kin" states "Dynasty members get better education". In the game code this is achieved by setting the education variable for the ninth and final roll to success equaling three points and failure equaling two points. In essence the Legacy Perk provides the child a guaranteed two education variable points, with the final Education Roll providing an opportunity to earn one extra point. This Perk means a child will need to have successful Education Rolls on seven of the eight rolls to earn a four star education trait.
+</p>
+<table class="wikitable" style="text-align:right;">
+
+<tbody><tr style="text-align:center;">
+<th colspan="5">Education Trait Level Chances with Level 2 Kin Dynasty Perk
+</th></tr>
+<tr>
+<th style="text-align:left;">Success (%)
+</th>
+<th>1
+</th>
+<th>2
+</th>
+<th>3
+</th>
+<th>4
+</th></tr>
+<tr>
+<td style="text-align:left;">50
+</td>
+<td>14.1%
+</td>
+<td>49.2%
+</td>
+<td>32.8%
+</td>
+<td>3.5%
+</td></tr>
+<tr>
+<td style="text-align:left;">60 (Base)
+</td>
+<td>4.9%
+</td>
+<td>35.6%
+</td>
+<td>48.8%
+</td>
+<td>10.6%
+</td></tr>
+<tr>
+<td style="text-align:left;">63
+</td>
+<td>3.3%
+</td>
+<td>30.4%
+</td>
+<td>52.1%
+</td>
+<td>14.1%
+</td></tr>
+<tr>
+<td style="text-align:left;">66
+</td>
+<td>2.2%
+</td>
+<td>25.1%
+</td>
+<td>54.3%
+</td>
+<td>18.4%
+</td></tr>
+<tr>
+<td style="text-align:left;">70
+</td>
+<td>1.1%
+</td>
+<td>18.3%
+</td>
+<td>55.1%
+</td>
+<td>25.5%
+</td></tr>
+<tr>
+<td style="text-align:left;">75
+</td>
+<td>0.4%
+</td>
+<td>11.0%
+</td>
+<td>51.9%
+</td>
+<td>36.7%
+</td></tr>
+<tr>
+<td style="text-align:left;">80
+</td>
+<td>0.1%
+</td>
+<td>5.5%
+</td>
+<td>44.0%
+</td>
+<td>50.3%
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Traits_factor">Traits factor</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Attributes&amp;action=edit&amp;section=17" title="Edit section: Traits factor">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The game bases the education success chance on the Success Factor and the Failure Factor. 
+</p><p>The Base Success Factor is 60, and increased by positive traits of the child and the guardian, the education matches with childhood trait, and the attributes of the guardian. 
+</p><p>The Base Failure Factor is 40, and increased by negative traits of the child/guardian, the education mismatches the childhood trait, and when he doesn't have a guardian.
+</p><p>The outcome will be the formula below.
+</p><p><img src="https://en.wikipedia.org/api/rest_v1/media/math/render/png/20132f0beeed6a54087b8d8c26c3ee3ed8de55cc" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.505ex; width:54.06ex; height:6.176ex;" alt="{\displaystyle {\text{Success}}=\left({\frac {SuccessFactor}{SuccessFactor+FailureFactor}}\right)\times 100}" />
+</p><p>or a default 60% chance when there's no additional factors involved.
+</p><p><img src="https://en.wikipedia.org/api/rest_v1/media/math/render/png/4df02028532e54ae4200400ba963052b3d38736b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.505ex; width:55.028ex; height:6.176ex;" alt="{\displaystyle {\text{Success}}=\left({\frac {60}{60+40}}\right)\times 100=\left({\frac {60}{100}}\right)\times 100=60.0\%}" />
+</p><p>For instance, a child with the "Genius" congenital trait adds 20 to the Success Factor. Under this circumstance, the Genius trait increases the odds of a successful Education Roll from 60% to 66.6%. The example math is provided below.
+</p><p><img src="https://en.wikipedia.org/api/rest_v1/media/math/render/png/da8f678aafb40d8a9704a7d21da9846fd5b1b47d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.505ex; width:56.19ex; height:6.176ex;" alt="{\displaystyle {\text{Success}}=\left({\frac {60+20}{100+20}}\right)\times 100=\left({\frac {80}{120}}\right)\times 100=66.6\%}" />
+</p><p>A guardian with the intelligence trait of Genius provides a Success Factor of 15. If a genius child (20) is being educated by a genius guardian (15) the chances of a successful Education Roll becomes 70.4%, with the example math provided below.
+</p><p><img src="https://en.wikipedia.org/api/rest_v1/media/math/render/png/0c2eccb41880ddc94b334bc1d1dd0f2cd62f99d8" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.505ex; width:61.356ex; height:6.176ex;" alt="{\displaystyle {\text{Success}}=\left({\frac {60+20+15}{100+20+15}}\right)\times 100=\left({\frac {95}{135}}\right)\times 100=70.4\%}" />
+</p><p>At the age of 3 each child is assigned a Childhood Trait. If the child's Focus does not match the Trait there is a factor of 20 added to the Failure Factor. For instance, if a child has the trait "Bossy" and the focus is Diplomacy, the child would receive the factor of 20 to Failure Factor. In this circumstance, the chance of a successful Education Roll drops to 50%.
+</p><p><img src="https://en.wikipedia.org/api/rest_v1/media/math/render/png/078010f524c835e7e83e1b866fa471aa4d84e935" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.505ex; width:54.381ex; height:6.176ex;" alt="{\displaystyle {\text{Success}}=\left({\frac {60}{100+20}}\right)\times 100=\left({\frac {60}{120}}\right)\times 100=50\%}" />
+</p><p>The positive Traits a child and guardian can have that increase the Success Factor are provided in the chart below.
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Trait</th>
+<th>Child Trait Factor</th>
+<th>Guardian Trait Factor
+</th></tr>
+<tr>
+<td><img alt="" src="/images/thumb/6/63/Trait_intellect_good_3.png/30px-Trait_intellect_good_3.png" width="30" height="30" srcset="/images/thumb/6/63/Trait_intellect_good_3.png/45px-Trait_intellect_good_3.png 1.5x, /images/thumb/6/63/Trait_intellect_good_3.png/60px-Trait_intellect_good_3.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/6/63/Trait_intellect_good_3.png/30px-Trait_intellect_good_3.png" loading="lazy" />&#160;Genius</td>
+<td>20</td>
+<td>15
+</td></tr>
+<tr>
+<td><img alt="" src="/images/thumb/8/8c/Trait_intellect_good_2.png/30px-Trait_intellect_good_2.png" width="30" height="30" srcset="/images/thumb/8/8c/Trait_intellect_good_2.png/45px-Trait_intellect_good_2.png 1.5x, /images/thumb/8/8c/Trait_intellect_good_2.png/60px-Trait_intellect_good_2.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/8/8c/Trait_intellect_good_2.png/30px-Trait_intellect_good_2.png" loading="lazy" />&#160;Intelligent</td>
+<td>15</td>
+<td>10
+</td></tr>
+<tr>
+<td><img alt="" src="/images/thumb/b/b9/Trait_intellect_good_1.png/30px-Trait_intellect_good_1.png" width="30" height="30" srcset="/images/thumb/b/b9/Trait_intellect_good_1.png/45px-Trait_intellect_good_1.png 1.5x, /images/thumb/b/b9/Trait_intellect_good_1.png/60px-Trait_intellect_good_1.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/b/b9/Trait_intellect_good_1.png/30px-Trait_intellect_good_1.png" loading="lazy" />&#160;Quick / <img alt="" src="/images/thumb/f/f9/Trait_shrewd.png/30px-Trait_shrewd.png" width="30" height="30" srcset="/images/thumb/f/f9/Trait_shrewd.png/45px-Trait_shrewd.png 1.5x, /images/thumb/f/f9/Trait_shrewd.png/60px-Trait_shrewd.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/f/f9/Trait_shrewd.png/30px-Trait_shrewd.png" loading="lazy" />&#160;Shrewd</td>
+<td>10</td>
+<td>5
+</td></tr>
+<tr>
+<td>Childhood trait Matching</td>
+<td>20</td>
+<td>N/A
+</td></tr></tbody></table>
+<p>The negative Traits a child and guardian can have that increase the Failure Factor are provided in the chart below.
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Trait</th>
+<th>Child Trait Factor</th>
+<th>Guardian Trait Factor
+</th></tr>
+<tr>
+<td><img alt="" src="/images/thumb/c/c9/Trait_intellect_bad_1.png/30px-Trait_intellect_bad_1.png" width="30" height="30" srcset="/images/thumb/c/c9/Trait_intellect_bad_1.png/45px-Trait_intellect_bad_1.png 1.5x, /images/thumb/c/c9/Trait_intellect_bad_1.png/60px-Trait_intellect_bad_1.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/c/c9/Trait_intellect_bad_1.png/30px-Trait_intellect_bad_1.png" loading="lazy" />&#160;Slow / <img alt="" src="/images/thumb/0/00/Trait_dull.png/30px-Trait_dull.png" width="30" height="30" srcset="/images/thumb/0/00/Trait_dull.png/45px-Trait_dull.png 1.5x, /images/thumb/0/00/Trait_dull.png/60px-Trait_dull.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/0/00/Trait_dull.png/30px-Trait_dull.png" loading="lazy" />&#160;Dull</td>
+<td>10</td>
+<td>5
+</td></tr>
+<tr>
+<td><img alt="" src="/images/thumb/e/e6/Trait_intellect_bad_2.png/30px-Trait_intellect_bad_2.png" width="30" height="30" srcset="/images/thumb/e/e6/Trait_intellect_bad_2.png/45px-Trait_intellect_bad_2.png 1.5x, /images/thumb/e/e6/Trait_intellect_bad_2.png/60px-Trait_intellect_bad_2.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/e/e6/Trait_intellect_bad_2.png/30px-Trait_intellect_bad_2.png" loading="lazy" />&#160;Stupid</td>
+<td>15</td>
+<td>10
+</td></tr>
+<tr>
+<td><img alt="" src="/images/thumb/7/75/Trait_intellect_bad_3.png/30px-Trait_intellect_bad_3.png" width="30" height="30" srcset="/images/thumb/7/75/Trait_intellect_bad_3.png/45px-Trait_intellect_bad_3.png 1.5x, /images/thumb/7/75/Trait_intellect_bad_3.png/60px-Trait_intellect_bad_3.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/7/75/Trait_intellect_bad_3.png/30px-Trait_intellect_bad_3.png" loading="lazy" />&#160;Imbecile</td>
+<td>20</td>
+<td>15
+</td></tr>
+<tr>
+<td>Childhood trait Not Matching</td>
+<td>20</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>No Guardian</td>
+<td>N/A</td>
+<td>20
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Attributes_factor">Attributes factor</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Attributes&amp;action=edit&amp;section=18" title="Edit section: Attributes factor">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The success of the Education Roll is also determined by the guardian's relevant attribute points. The "Primary Attribute" for a guardian (more important attribute) is the one which matches the focus of the child, and is determined by that value times 0.4. A guardian's Diplomacy attribute is part of the Factor for a child with a diplomacy focus. The "Secondary Attribute" is the guardian's Learning, which is multiplied by 0.2. The formula is shown below.
+</p><p><img src="https://en.wikipedia.org/api/rest_v1/media/math/render/png/dbcab9b465b02ea3aedc2372468edf3c156f7567" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:55.419ex; height:2.843ex;" alt="{\displaystyle {\text{Factor}}=\left(0.4\times {\text{Primary Attribute}}\right)+\left(0.2\times {\text{Learning}}\right)}" />
+</p><p>For instance a child with a focus in Diplomacy has a guardian with a 10 Diplomacy Attribute and a 15 Learning Attribute will provide a Success Factor of +7.
+</p><p><img src="https://en.wikipedia.org/api/rest_v1/media/math/render/png/d1fe5530a22da6b92c052aaf6f621a4b727ddf02" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:48.666ex; height:2.843ex;" alt="{\displaystyle {\text{Factor}}=\left(0.4\times 10\right)+\left(0.2\times 15\right)=\left(4\right)+\left(3\right)=7}" />
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th colspan="7">Guardian Attribute Quick Math
+</th></tr>
+<tr>
+<th rowspan="2">Guardian Attribute
+</th>
+<th colspan="5">Child Focus
+</th>
+<th rowspan="2">Learning Factor
+</th></tr>
+
+<tr>
+<th><img alt="" src="/images/thumb/a/af/Diplomacy.png/30px-Diplomacy.png" width="30" height="31" srcset="/images/thumb/a/af/Diplomacy.png/45px-Diplomacy.png 1.5x, /images/a/af/Diplomacy.png 2x" data-file-width="60" data-file-height="61" data-url="/images/thumb/a/af/Diplomacy.png/30px-Diplomacy.png" loading="lazy" /></th>
+<th><img alt="" src="/images/thumb/9/9a/Martial.png/30px-Martial.png" width="30" height="30" srcset="/images/thumb/9/9a/Martial.png/45px-Martial.png 1.5x, /images/9/9a/Martial.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/9/9a/Martial.png/30px-Martial.png" loading="lazy" /></th>
+<th><img alt="" src="/images/thumb/c/c5/Stewardship.png/30px-Stewardship.png" width="30" height="31" srcset="/images/thumb/c/c5/Stewardship.png/45px-Stewardship.png 1.5x, /images/c/c5/Stewardship.png 2x" data-file-width="60" data-file-height="61" data-url="/images/thumb/c/c5/Stewardship.png/30px-Stewardship.png" loading="lazy" /></th>
+<th><img alt="" src="/images/thumb/0/0b/Intrigue.png/30px-Intrigue.png" width="30" height="30" srcset="/images/thumb/0/0b/Intrigue.png/45px-Intrigue.png 1.5x, /images/0/0b/Intrigue.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/0/0b/Intrigue.png/30px-Intrigue.png" loading="lazy" /></th>
+<th><img alt="" src="/images/thumb/2/22/Learning.png/30px-Learning.png" width="30" height="31" srcset="/images/thumb/2/22/Learning.png/45px-Learning.png 1.5x, /images/2/22/Learning.png 2x" data-file-width="60" data-file-height="61" data-url="/images/thumb/2/22/Learning.png/30px-Learning.png" loading="lazy" />
+</th></tr>
+<tr>
+<td>5</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>1
+</td></tr>
+<tr>
+<td>10</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+<td>2
+</td></tr>
+<tr>
+<td>15</td>
+<td>6</td>
+<td>6</td>
+<td>6</td>
+<td>6</td>
+<td>6</td>
+<td>3
+</td></tr>
+<tr>
+<td>20</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>4
+</td></tr>
+<tr>
+<td>25</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>5
+</td></tr>
+<tr>
+<td>30</td>
+<td>12</td>
+<td>12</td>
+<td>12</td>
+<td>12</td>
+<td>12</td>
+<td>6
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Strategy">Strategy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Attributes&amp;action=edit&amp;section=19" title="Edit section: Strategy">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Education Roll bonus provided by guardians with congenital traits of Genius, Intelligent and Quick (or the non-congenital Shrewd) are significantly more important than the attributes of the guardian alone. Under these circumstances an "underachieving" Genius guardian can provide equal value with a character with amazing stats.
+</p><p>Therefore the most important factors when choosing a guardian are:
+</p>
+<ol><li>Someone you trust not to kill your child</li>
+<li><img alt="" src="/images/thumb/6/63/Trait_intellect_good_3.png/30px-Trait_intellect_good_3.png" width="30" height="30" srcset="/images/thumb/6/63/Trait_intellect_good_3.png/45px-Trait_intellect_good_3.png 1.5x, /images/thumb/6/63/Trait_intellect_good_3.png/60px-Trait_intellect_good_3.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/6/63/Trait_intellect_good_3.png/30px-Trait_intellect_good_3.png" loading="lazy" />&#160;Genius</li>
+<li><img alt="" src="/images/thumb/8/8c/Trait_intellect_good_2.png/30px-Trait_intellect_good_2.png" width="30" height="30" srcset="/images/thumb/8/8c/Trait_intellect_good_2.png/45px-Trait_intellect_good_2.png 1.5x, /images/thumb/8/8c/Trait_intellect_good_2.png/60px-Trait_intellect_good_2.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/8/8c/Trait_intellect_good_2.png/30px-Trait_intellect_good_2.png" loading="lazy" />&#160;Intelligent</li>
+<li><img alt="" src="/images/thumb/b/b9/Trait_intellect_good_1.png/30px-Trait_intellect_good_1.png" width="30" height="30" srcset="/images/thumb/b/b9/Trait_intellect_good_1.png/45px-Trait_intellect_good_1.png 1.5x, /images/thumb/b/b9/Trait_intellect_good_1.png/60px-Trait_intellect_good_1.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/b/b9/Trait_intellect_good_1.png/30px-Trait_intellect_good_1.png" loading="lazy" />&#160;Quick / <img alt="" src="/images/thumb/f/f9/Trait_shrewd.png/30px-Trait_shrewd.png" width="30" height="30" srcset="/images/thumb/f/f9/Trait_shrewd.png/45px-Trait_shrewd.png 1.5x, /images/thumb/f/f9/Trait_shrewd.png/60px-Trait_shrewd.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/f/f9/Trait_shrewd.png/30px-Trait_shrewd.png" loading="lazy" />&#160;Shrewd</li>
+<li>Value of Primary Attribute (which matches child's focus)</li>
+<li><img alt="" src="/images/thumb/2/22/Learning.png/30px-Learning.png" width="30" height="31" srcset="/images/thumb/2/22/Learning.png/45px-Learning.png 1.5x, /images/2/22/Learning.png 2x" data-file-width="60" data-file-height="61" data-url="/images/thumb/2/22/Learning.png/30px-Learning.png" loading="lazy" />&#160;Learning Attribute</li></ol>
+<h4><span class="mw-headline" id="Example">Example</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Attributes&amp;action=edit&amp;section=20" title="Edit section: Example">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>A Genius guardian with 5 Diplomacy and Learning Attributes will provide a Factor of +18 (15 + 2 + 1) and successful Education Roll chance of 66% on a average child, while a guardian with 30 Diplomacy and 30 Learning Attributes will provide a Factor of +18 (12 + 6) and successful Education Roll chance of 66%.
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th colspan="7">Hypothetical Guardian Attributes
+</th></tr>
+<tr>
+<th>Guardian
+</th>
+<th>Congenital Trait</th>
+<th><img alt="" src="/images/thumb/a/af/Diplomacy.png/30px-Diplomacy.png" width="30" height="31" srcset="/images/thumb/a/af/Diplomacy.png/45px-Diplomacy.png 1.5x, /images/a/af/Diplomacy.png 2x" data-file-width="60" data-file-height="61" data-url="/images/thumb/a/af/Diplomacy.png/30px-Diplomacy.png" loading="lazy" /></th>
+<th><img alt="" src="/images/thumb/9/9a/Martial.png/30px-Martial.png" width="30" height="30" srcset="/images/thumb/9/9a/Martial.png/45px-Martial.png 1.5x, /images/9/9a/Martial.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/9/9a/Martial.png/30px-Martial.png" loading="lazy" /></th>
+<th><img alt="" src="/images/thumb/c/c5/Stewardship.png/30px-Stewardship.png" width="30" height="31" srcset="/images/thumb/c/c5/Stewardship.png/45px-Stewardship.png 1.5x, /images/c/c5/Stewardship.png 2x" data-file-width="60" data-file-height="61" data-url="/images/thumb/c/c5/Stewardship.png/30px-Stewardship.png" loading="lazy" /></th>
+<th><img alt="" src="/images/thumb/0/0b/Intrigue.png/30px-Intrigue.png" width="30" height="30" srcset="/images/thumb/0/0b/Intrigue.png/45px-Intrigue.png 1.5x, /images/0/0b/Intrigue.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/0/0b/Intrigue.png/30px-Intrigue.png" loading="lazy" /></th>
+<th><img alt="" src="/images/thumb/2/22/Learning.png/30px-Learning.png" width="30" height="31" srcset="/images/thumb/2/22/Learning.png/45px-Learning.png 1.5x, /images/2/22/Learning.png 2x" data-file-width="60" data-file-height="61" data-url="/images/thumb/2/22/Learning.png/30px-Learning.png" loading="lazy" />
+</th></tr>
+<tr>
+<td>Guardian 1</td>
+<td><img alt="" src="/images/thumb/6/63/Trait_intellect_good_3.png/30px-Trait_intellect_good_3.png" width="30" height="30" srcset="/images/thumb/6/63/Trait_intellect_good_3.png/45px-Trait_intellect_good_3.png 1.5x, /images/thumb/6/63/Trait_intellect_good_3.png/60px-Trait_intellect_good_3.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/6/63/Trait_intellect_good_3.png/30px-Trait_intellect_good_3.png" loading="lazy" />&#160;Genius</td>
+<td>5</td>
+<td>4</td>
+<td>2</td>
+<td>3</td>
+<td>5
+</td></tr>
+<tr>
+<td>Guardian 2</td>
+<td>None</td>
+<td>30</td>
+<td>33</td>
+<td>32</td>
+<td>28</td>
+<td>30
+</td></tr></tbody></table>
+<p><img src="https://en.wikipedia.org/api/rest_v1/media/math/render/png/42c9b0a9792072a844a2ed09267ae7617b3e063c" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.505ex; width:76.105ex; height:6.176ex;" alt="{\displaystyle {\text{Guardian 1 Success}}=\left({\frac {60+15+2+1}{100+15+2+1}}\right)\times 100=\left({\frac {78}{118}}\right)\times 100=66.1\%}" />
+</p><p><br />
+<img src="https://en.wikipedia.org/api/rest_v1/media/math/render/png/1532c048817c94eb2766984fda3ec0092981dede" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.505ex; width:72.102ex; height:6.176ex;" alt="{\displaystyle {\text{Guardian 2 Success}}=\left({\frac {60+12+6}{100+12+6}}\right)\times 100=\left({\frac {78}{118}}\right)\times 100=66.1\%}" />
+</p><p><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Prowess_trait">Prowess trait</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Attributes&amp;action=edit&amp;section=21" title="Edit section: Prowess trait">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Children undergoing a Martial education can also receive a Prowess education trait when they come of age. To qualify, the child's culture or the educator's culture<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> must have the Knighthood innovation and the child must be of a gender that can become knights. The system that determines which Prowess trait the child gets is completely separate from the other education traits. The perks, spouse or universities don't influence the outcome.
+</p><p>When the child finishes their education, the game creates a temporary score for them, which starts equal to the Martial education level they obtained. Then, the game changes this score depending on the child's physical traits (multiple traits stack):
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Trait</th>
+<th>Prowess Factor
+</th></tr>
+<tr>
+<td><img alt="" src="/images/thumb/7/76/Trait_physique_good_3.png/24px-Trait_physique_good_3.png" width="24" height="24" srcset="/images/thumb/7/76/Trait_physique_good_3.png/36px-Trait_physique_good_3.png 1.5x, /images/thumb/7/76/Trait_physique_good_3.png/48px-Trait_physique_good_3.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/7/76/Trait_physique_good_3.png/24px-Trait_physique_good_3.png" loading="lazy" />&#160;Herculean</td>
+<td>+3
+</td></tr>
+<tr>
+<td><img alt="" src="/images/thumb/1/1a/Trait_physique_good_2.png/24px-Trait_physique_good_2.png" width="24" height="24" srcset="/images/thumb/1/1a/Trait_physique_good_2.png/36px-Trait_physique_good_2.png 1.5x, /images/thumb/1/1a/Trait_physique_good_2.png/48px-Trait_physique_good_2.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/1/1a/Trait_physique_good_2.png/24px-Trait_physique_good_2.png" loading="lazy" />&#160;Robust, <img alt="" src="/images/thumb/c/c2/Trait_strong.png/24px-Trait_strong.png" width="24" height="24" srcset="/images/thumb/c/c2/Trait_strong.png/36px-Trait_strong.png 1.5x, /images/thumb/c/c2/Trait_strong.png/48px-Trait_strong.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/c/c2/Trait_strong.png/24px-Trait_strong.png" loading="lazy" />&#160;Strong, <img alt="" src="/images/thumb/9/99/Trait_giant.png/24px-Trait_giant.png" width="24" height="24" srcset="/images/thumb/9/99/Trait_giant.png/36px-Trait_giant.png 1.5x, /images/thumb/9/99/Trait_giant.png/48px-Trait_giant.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/9/99/Trait_giant.png/24px-Trait_giant.png" loading="lazy" />&#160;Giant</td>
+<td>+2
+</td></tr>
+<tr>
+<td><img alt="" src="/images/thumb/9/9b/Trait_physique_good_1.png/24px-Trait_physique_good_1.png" width="24" height="24" srcset="/images/thumb/9/9b/Trait_physique_good_1.png/36px-Trait_physique_good_1.png 1.5x, /images/thumb/9/9b/Trait_physique_good_1.png/48px-Trait_physique_good_1.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/9/9b/Trait_physique_good_1.png/24px-Trait_physique_good_1.png" loading="lazy" />&#160;Hale</td>
+<td>+1
+</td></tr>
+<tr>
+<td><img alt="" src="/images/thumb/3/33/Trait_physique_bad_1.png/24px-Trait_physique_bad_1.png" width="24" height="24" srcset="/images/thumb/3/33/Trait_physique_bad_1.png/36px-Trait_physique_bad_1.png 1.5x, /images/thumb/3/33/Trait_physique_bad_1.png/48px-Trait_physique_bad_1.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/3/33/Trait_physique_bad_1.png/24px-Trait_physique_bad_1.png" loading="lazy" />&#160;Delicate, <img alt="" src="/images/thumb/3/3f/Trait_spindly.png/24px-Trait_spindly.png" width="24" height="24" srcset="/images/thumb/3/3f/Trait_spindly.png/36px-Trait_spindly.png 1.5x, /images/thumb/3/3f/Trait_spindly.png/48px-Trait_spindly.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/3/3f/Trait_spindly.png/24px-Trait_spindly.png" loading="lazy" />&#160;Spindly, <img alt="" src="/images/thumb/7/7f/Trait_wheezing.png/24px-Trait_wheezing.png" width="24" height="24" srcset="/images/thumb/7/7f/Trait_wheezing.png/36px-Trait_wheezing.png 1.5x, /images/thumb/7/7f/Trait_wheezing.png/48px-Trait_wheezing.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/7/7f/Trait_wheezing.png/24px-Trait_wheezing.png" loading="lazy" />&#160;Wheezing, <img alt="" src="/images/thumb/d/df/Trait_hunchbacked.png/24px-Trait_hunchbacked.png" width="24" height="24" srcset="/images/thumb/d/df/Trait_hunchbacked.png/36px-Trait_hunchbacked.png 1.5x, /images/thumb/d/df/Trait_hunchbacked.png/48px-Trait_hunchbacked.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/d/df/Trait_hunchbacked.png/24px-Trait_hunchbacked.png" loading="lazy" />&#160;Hunchbacked, <img alt="" src="/images/thumb/7/70/Trait_inbred.png/24px-Trait_inbred.png" width="24" height="24" srcset="/images/thumb/7/70/Trait_inbred.png/36px-Trait_inbred.png 1.5x, /images/thumb/7/70/Trait_inbred.png/48px-Trait_inbred.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/7/70/Trait_inbred.png/24px-Trait_inbred.png" loading="lazy" />&#160;Inbred, <img alt="" src="/images/thumb/3/36/Trait_bleeder.png/24px-Trait_bleeder.png" width="24" height="24" srcset="/images/thumb/3/36/Trait_bleeder.png/36px-Trait_bleeder.png 1.5x, /images/thumb/3/36/Trait_bleeder.png/48px-Trait_bleeder.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/3/36/Trait_bleeder.png/24px-Trait_bleeder.png" loading="lazy" />&#160;Bleeder</td>
+<td>-1
+</td></tr>
+<tr>
+<td><img alt="" src="/images/thumb/b/ba/Trait_physique_bad_2.png/24px-Trait_physique_bad_2.png" width="24" height="24" srcset="/images/thumb/b/ba/Trait_physique_bad_2.png/36px-Trait_physique_bad_2.png 1.5x, /images/thumb/b/ba/Trait_physique_bad_2.png/48px-Trait_physique_bad_2.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/b/ba/Trait_physique_bad_2.png/24px-Trait_physique_bad_2.png" loading="lazy" />&#160;Frail, <img alt="" src="/images/thumb/f/f7/Trait_weak.png/24px-Trait_weak.png" width="24" height="24" srcset="/images/thumb/f/f7/Trait_weak.png/36px-Trait_weak.png 1.5x, /images/thumb/f/f7/Trait_weak.png/48px-Trait_weak.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/f/f7/Trait_weak.png/24px-Trait_weak.png" loading="lazy" />&#160;Weak, <img alt="" src="/images/thumb/c/cc/Trait_dwarf.png/24px-Trait_dwarf.png" width="24" height="24" srcset="/images/thumb/c/cc/Trait_dwarf.png/36px-Trait_dwarf.png 1.5x, /images/thumb/c/cc/Trait_dwarf.png/48px-Trait_dwarf.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/c/cc/Trait_dwarf.png/24px-Trait_dwarf.png" loading="lazy" />&#160;Dwarf</td>
+<td>-2
+</td></tr>
+<tr>
+<td><img alt="" src="/images/thumb/8/84/Trait_physique_bad_3.png/24px-Trait_physique_bad_3.png" width="24" height="24" srcset="/images/thumb/8/84/Trait_physique_bad_3.png/36px-Trait_physique_bad_3.png 1.5x, /images/thumb/8/84/Trait_physique_bad_3.png/48px-Trait_physique_bad_3.png 2x" data-file-width="120" data-file-height="120" data-url="/images/thumb/8/84/Trait_physique_bad_3.png/24px-Trait_physique_bad_3.png" loading="lazy" />&#160;Feeble</td>
+<td>-3
+</td></tr></tbody></table>
+<p>Lastly, there's a 25% chance the score increases +2, 25% chance it decreases by -2, and 50% chance it stays unchanged.
+</p><p>The final score is then the child's Prowess education level.
+</p>
+<h2><span class="mw-headline" id="Weight">Weight</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Attributes&amp;action=edit&amp;section=22" title="Edit section: Weight">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Each character in the game has a hidden "weight" value which ranges from -100 to 100. If your weight is -50 or below, you gain the Malnourished modifier, and the "Gain Weight" decision becomes available to you. If your weight is 50 or above, you gain the Obese modifier, and the "Lose Weight" decision becomes available to you.<sup id="cite_ref-Askanien_7-0" class="reference"><a href="#cite_note-Askanien-7">&#91;7&#93;</a></sup> Being obese or malnourished gives <img alt="" src="/images/thumb/0/0d/Health_negative.png/24px-Health_negative.png" width="24" height="24" srcset="/images/thumb/0/0d/Health_negative.png/36px-Health_negative.png 1.5x, /images/thumb/0/0d/Health_negative.png/48px-Health_negative.png 2x" data-file-width="60" data-file-height="60" data-url="/images/thumb/0/0d/Health_negative.png/24px-Health_negative.png" loading="lazy" /> <span class="effect-red"><b>−1</b></span> Health.
+</p><p>In addition to a character's current weight, each character also has a hidden "target weight" value, based mostly on <a href="/Traits" title="Traits">traits</a>, which is the weight they are drifting toward. Every year, your real weight will drift closer to your target weight. When you <a href="/Feast" class="mw-redirect" title="Feast">feast</a>, your target weight<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> increases by 7<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>, and when you <a href="/Hunt" class="mw-redirect" title="Hunt">hunt</a>, your target weight<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> decreases by 4<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>. Afterward, your weight will eventually drift back toward your target weight. The "Lose Weight" decision decreases your target weight, and the "Gain Weight" decision adds to your target weight. Ending those decisions brings your target weight back to what it was before.
+</p><p>Switching to a <a href="/Martial_lifestyle" class="mw-redirect" title="Martial lifestyle">Martial lifestyle</a> will move your target weight closer to 0 (so that if you are underweight, your target weight will increase somewhat, and if you are overweight, your target weight will decrease somewhat). Being a Novice Hunter, <a href="/Hunter" class="mw-redirect" title="Hunter">Hunter</a>, or Master Hunter, will also move your target weight closer to 0 by successive amounts.
+</p><p>The following traits and events also affect a character's target weight:<sup id="cite_ref-Askanien_7-1" class="reference"><a href="#cite_note-Askanien-7">&#91;7&#93;</a></sup>
+</p>
+<table class="mildtable plainlist">
+<tbody><tr>
+<th>Effect on target weight
+</th>
+<th>Traits / Events
+</th></tr>
+<tr>
+<td>Large increase
+</td>
+<td><a href="/Gluttonous" class="mw-redirect" title="Gluttonous">Gluttonous</a>, <a href="/Lazy" class="mw-redirect" title="Lazy">Lazy</a>, <a href="/Comfort_Eater" class="mw-redirect" title="Comfort Eater">Comfort Eater</a>, "Gain weight" decision
+</td></tr>
+<tr>
+<td>Moderate increase
+</td>
+<td><a href="/Drunkard" class="mw-redirect" title="Drunkard">Drunkard</a>, <a href="/Hashishiyah" class="mw-redirect" title="Hashishiyah">Hashishiyah</a>, <a href="/Gregarious" class="mw-redirect" title="Gregarious">Gregarious</a>, <a href="/Greedy" class="mw-redirect" title="Greedy">Greedy</a>, <a href="/Calm" class="mw-redirect" title="Calm">Calm</a>, <a href="/Trusting" class="mw-redirect" title="Trusting">Trusting</a>, Legendary <a href="/Reveler" class="mw-redirect" title="Reveler">Reveler</a>
+</td></tr>
+<tr>
+<td>Slight increase
+</td>
+<td><a href="/Patient" class="mw-redirect" title="Patient">Patient</a>, <a href="/Arrogant" class="mw-redirect" title="Arrogant">Arrogant</a>, <a href="/Ambitious" class="mw-redirect" title="Ambitious">Ambitious</a>, Eager <a href="/Reveler" class="mw-redirect" title="Reveler">Reveler</a>, Famous Reveler
+</td></tr>
+<tr>
+<td>Slight decrease
+</td>
+<td><a href="/Shy" class="mw-redirect" title="Shy">Shy</a>, <a href="/Humble" class="mw-redirect" title="Humble">Humble</a>, <a href="/Zealous" class="mw-redirect" title="Zealous">Zealous</a>, <a href="/Craven" class="mw-redirect" title="Craven">Craven</a>, <a href="/Temperate" class="mw-redirect" title="Temperate">Temperate</a>
+</td></tr>
+<tr>
+<td>Moderate decrease
+</td>
+<td><a href="/Imprisoned" class="mw-redirect" title="Imprisoned">Imprisoned</a>, <a href="/Diligent" class="mw-redirect" title="Diligent">Diligent</a>, <a href="/Wrathful" class="mw-redirect" title="Wrathful">Wrathful</a>, <a href="/Leper" class="mw-redirect" title="Leper">Leper</a>, <a href="/Impatient" class="mw-redirect" title="Impatient">Impatient</a>, <a href="/Content" class="mw-redirect" title="Content">Content</a>, <a href="/Fickle" class="mw-redirect" title="Fickle">Fickle</a>, <a href="/Vengeful" class="mw-redirect" title="Vengeful">Vengeful</a>, <a href="/Generous" class="mw-redirect" title="Generous">Generous</a>
+</td></tr>
+<tr>
+<td>Large decrease
+</td>
+<td><a href="/Consumption" class="mw-redirect" title="Consumption">Consumption</a>, <a href="/Cancer" class="mw-redirect" title="Cancer">Cancer</a>, <a href="/Great_pox" class="mw-redirect" title="Great pox">Great pox</a>, <a href="/Paranoid" class="mw-redirect" title="Paranoid">Paranoid</a>, <a href="/Inappetetic" class="mw-redirect" title="Inappetetic">Inappetetic</a>, <a href="/Imprisoned" class="mw-redirect" title="Imprisoned">in dungeon</a>, "Lose weight" decision
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Attributes&amp;action=edit&amp;section=23" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><code class="filename">game\common\defines\00_defines.txt</code>, <code>SKILL_DIPLOMACY_MULT = 1</code></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><code class="filename">game\common\modifiers\00_basic_modifiers.txt</code>, <code>diplomacy_modifier_with_offset</code></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><code class="filename">common\defines\00_defines.txt</code>: <code>NEWBORN_HEALTH_BASE = 4.5</code>, <code>NEWBORN_HEALTH_SPAN = 0.5</code>, <code>NEWBORN_HEALTH_FEMALE_BONUS = 0.5</code>.</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><code class="filename">common\defines\00_defines.txt</code>, <code>NModifier</code></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"> Reddit user u/Adhesiveduck <a rel="nofollow" class="external free" href="https://www.reddit.com/r/CrusaderKings/comments/iu2sed/the_education_system_explained_how_to_choose_a/">https://www.reddit.com/r/CrusaderKings/comments/iu2sed/the_education_system_explained_how_to_choose_a/</a></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><code class="filename">events\education_and_childhood\coming_of_age_events.txt</code>, <code>lines 1024-1029</code></span>
+</li>
+<li id="cite_note-Askanien-7"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Askanien_7-0">7.0</a></sup> <sup><a href="#cite_ref-Askanien_7-1">7.1</a></sup></span> <span class="reference-text"> Reddit user u/Stefan_Askanien <a rel="nofollow" class="external free" href="https://www.reddit.com/r/CrusaderKings/comments/iutm4z/how_weight_is_calculated_and_how_to_fight_obesity/">https://www.reddit.com/r/CrusaderKings/comments/iutm4z/how_weight_is_calculated_and_how_to_fight_obesity/</a></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><code class="filename">common\activities\00_activity_feast.txt</code>, <code>activity_feast</code></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><code class="filename">common\script_values\10_health_values.txt</code>, <code>feast_weight_modifier_value</code></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><code class="filename">common\activities\00_activity_hunt.txt</code>, <code>activity_hunt</code></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><code class="filename">common\script_values\10_health_values.txt</code>, <code>hunt_weight_modifier_value</code></span>
+</li>
+</ol></div>
+<p><br />
+</p>
+<div style="clear: both;"></div>
+<div style="padding: 2px; border: 1px solid #aaa; text-align: center; border-collapse: collapse; font-size: 100%;">
+<div style="height: 1.6em; font-weight: bold; font-size: 105%; background-color: #efefef;"><b><a href="/Mechanics" title="Mechanics">Mechanics</a></b></div>
+<div style="font-size:0.9em;">
+<table style="font-size: 11px; margin: 0px 0px -2px -2px; width: 100%;">
+
+<tbody><tr>
+<td style="width: 15%; background: #EDEDED; font-weight: bold; text-align: right; padding: 2px 5px;">Characters
+</td>
+<td style="text-align: left; padding: 2px 5px;"><a href="/Characters" class="mw-redirect" title="Characters">Characters</a> • <a class="mw-selflink selflink">Attributes</a> • <a href="/Traits" title="Traits">Traits</a> • <a href="/Resources" title="Resources">Resources</a> • <a href="/Lifestyle" title="Lifestyle">Lifestyle</a> • <a href="/Dynasty" title="Dynasty">Dynasty</a> • <a href="/Culture" title="Culture">Culture</a> • <a href="/Innovations" class="mw-redirect" title="Innovations">Innovations</a> • <a href="/Modifiers" title="Modifiers">Modifiers</a>
+</td></tr></tbody></table>
+<table style="font-size: 11px; margin: 0px 0px -2px -2px; width: 100%;">
+
+<tbody><tr>
+<td style="width: 15%; background: #EDEDED; font-weight: bold; text-align: right; padding: 2px 5px;">Realm &amp; Governance
+</td>
+<td style="text-align: left; padding: 2px 5px;"><a href="/Vassals" title="Vassals">Vassals</a> • <a href="/Council" title="Council">Council</a> • <a href="/Court" title="Court">Court</a> • <a href="/Schemes" title="Schemes">Schemes</a> • <a href="/Government" title="Government">Government</a> • <a href="/Laws" title="Laws">Laws</a> • <a href="/Decisions" title="Decisions">Decisions</a> • <a href="/Titles" title="Titles">Titles</a> • <a href="/Barony" title="Barony">Barony</a> • <a href="/County" title="County">County</a>
+</td></tr></tbody></table>
+<table style="font-size: 11px; margin: 0px 0px -2px -2px; width: 100%;">
+
+<tbody><tr>
+<td style="width: 15%; background: #EDEDED; font-weight: bold; text-align: right; padding: 2px 5px;">Warfare
+</td>
+<td style="text-align: left; padding: 2px 5px;"><a href="/Warfare" title="Warfare">Warfare</a> • <a href="/Casus_belli" title="Casus belli">Casus belli</a> • <a href="/Alliance" title="Alliance">Alliance</a> • <a href="/Army" title="Army">Army</a> • <a href="/Hired_forces" title="Hired forces">Hired forces</a>
+</td></tr></tbody></table>
+<table style="font-size: 11px; margin: 0px 0px -2px -2px; width: 100%;">
+
+<tbody><tr>
+<td style="width: 15%; background: #EDEDED; font-weight: bold; text-align: right; padding: 2px 5px;">Faith
+</td>
+<td style="text-align: left; padding: 2px 5px;"><a href="/Religion" title="Religion">Religion</a> • <a href="/Faith" title="Faith">Faith</a> • <a href="/Doctrines" title="Doctrines">Doctrines</a> • <a href="/Tenets" class="mw-redirect" title="Tenets">Tenets</a>
+</td></tr></tbody></table>
+<table style="font-size: 11px; margin: 0px 0px -2px -2px; width: 100%;">
+
+<tbody><tr>
+<td style="width: 15%; background: #EDEDED; font-weight: bold; text-align: right; padding: 2px 5px;">Meta
+</td>
+<td style="text-align: left; padding: 2px 5px;"><a href="/Modding" title="Modding">Modding</a> • <a href="/Patches" title="Patches">Patches</a> • <a href="/Downloadable_content" title="Downloadable content">Downloadable content</a> • <a href="/Developer_diaries" title="Developer diaries">Developer diaries</a> • <a href="/Achievements" class="mw-redirect" title="Achievements">Achievements</a> • <a href="/Jargon" title="Jargon">Jargon</a>
+</td></tr></tbody></table>
+</div></div>
+
+<!-- 
+NewPP limit report
+Cached time: 20210125171236
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.491 seconds
+Real time usage: 1.527 seconds
+Preprocessor visited node count: 10615/1000000
+Preprocessor generated node count: 81732/1000000
+Post‐expand include size: 41251/2097152 bytes
+Template argument size: 8232/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 7601/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1407.117      1 -total
+ 10.91%  153.495    148 Template:Icon
+  5.03%   70.835     62 Template:Iconify
+  1.31%   18.368     22 Template:Icon/s
+  1.10%   15.468     25 Template:Icon/h
+  0.98%   13.723     16 Template:Icon/d
+  0.63%    8.917     12 Template:Icon/i
+  0.55%    7.732     70 Template:Green
+  0.54%    7.617      9 Template:Icon/f
+  0.52%    7.296      1 Template:Mechanics_navbox
+-->
+
+<!-- Saved in parser cache with key wiki_ck3-wmckiii_beta_:pcache:idhash:1136-0!canonical!math=0 and timestamp 20210125171232 and revision id 11492
+ -->
+</div></div>                        <div class="printfooter">
+                            Retrieved from "<a dir="ltr" href="https://ck3.paradoxwikis.com/index.php?title=Attributes&amp;oldid=11492">https://ck3.paradoxwikis.com/index.php?title=Attributes&amp;oldid=11492</a>"                        </div>
+                    <div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:1.2" title="Category:1.2">1.2</a></li><li><a href="/Category:Character" title="Category:Character">Character</a></li></ul></div></div>                    <div class="visualClear"></div>
+                                    </div>
+            </div>
+        </div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 25 January 2021, at 17:12.</li>
+								<li id="footer-info-copyright">Content is available under <a href="https://central.paradoxwikis.com/Central:Copyrights" class="extiw" title="central:Central:Copyrights">Attribution-ShareAlike 3.0</a> unless otherwise noted.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-about"><a href="https://central.paradoxwikis.com/Central:About" class="extiw" title="central:Central:About">About CK3 Wiki</a></li>
+								<li id="footer-places-mainpage"><a href="/Crusader_Kings_III_Wiki" title="Crusader Kings III Wiki">Crusader Kings III Wiki</a></li>
+								<li id="footer-places-paradoxwiki"><a href="https://paradoxwikis.com/" class="extiw" title="paradoxwiki:">Paradox Wikis</a></li>
+								<li id="footer-places-legal_pp"><a href="https://legal.paradoxplaza.com/privacy?locale=en">Privacy Policy</a></li>
+								<li id="footer-places-mobileview"><a href="https://ck3.paradoxwikis.com/index.php?title=Attributes&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://creativecommons.org/licenses/by-sa/3.0/"><img src="https://licensebuttons.net/l/by-sa/3.0/88x31.png" alt="Attribution-ShareAlike 3.0" width="88" height="31"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+        
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.491","walltime":"1.527","ppvisitednodes":{"value":10615,"limit":1000000},"ppgeneratednodes":{"value":81732,"limit":1000000},"postexpandincludesize":{"value":41251,"limit":2097152},"templateargumentsize":{"value":8232,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":7601,"limit":5000000},"timingprofile":["100.00% 1407.117      1 -total"," 10.91%  153.495    148 Template:Icon","  5.03%   70.835     62 Template:Iconify","  1.31%   18.368     22 Template:Icon/s","  1.10%   15.468     25 Template:Icon/h","  0.98%   13.723     16 Template:Icon/d","  0.63%    8.917     12 Template:Icon/i","  0.55%    7.732     70 Template:Green","  0.54%    7.617      9 Template:Icon/f","  0.52%    7.296      1 Template:Mechanics_navbox"]},"cachereport":{"timestamp":"20210125171236","ttl":86400,"transientcontent":false}}});});</script>
+<!-- Google Tag Manager (added by extension GoogleTagManager) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5QW7SS"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5QW7SS');</script>
+<!-- End Google Tag Manager -->
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":52});});</script>        
+		<div class="footer pdx_footer"><div class="footer-container content grid ts-inner"><div class="footer__logo footer-item"><div class="content-asset"><div class="footer__logo-image"><img src="https://www.paradoxplaza.com/on/demandware.static/Sites-Paradox_US-Site/-/en_US/images/footer-master-logo.png"/></div></div></div><div class="footer__games footer-item"><div class="content-asset"><div class="footer_section_title">Games</div><ul class="footer__menu"><li class="footer__menu_link"><a href="https://www.paradoxplaza.com/games/" title="Browse">Browse</a></li><li class="footer__menu_link"><a href="https://www.paradoxplaza.com/new-releases/" title="New Releases">New Releases</a></li><li class="footer__menu_link"><a href="https://www.paradoxplaza.com/coming-soon/" title="Coming Soon">Coming Soon</a></li><li class="footer__menu_link"><a href="https://www.paradoxplaza.com/on-sale/" title="On Sale">On Sale</a></li><li class="footer__menu_link"><a href="https://play.paradoxplaza.com/" title="Paradox Launcher">Play on Paradox technology</a></li></ul></div></div><div class="footer__community footer-item"><div class="content-asset"><div class="footer_section_title">Community</div><ul class="footer__menu"><li class="footer__menu_link"><a href="https://forum.paradoxplaza.com/forum/index.php" title="Paradox Forums">Paradox Forums</a></li><li class="footer__menu_link"><a href="https://paradoxwikis.com/" title="Paradox Wikis">Paradox Wikis</a></li><li class="footer__menu_link"><a href="https://www.paradoxplaza.com/support-static-info-ca.html" title="Support">Support</a></li><li class="footer__menu_link"><a href="http://merch.paradoxplaza.com/" title="Merch">Merch</a></li></ul></div></div><div class="footer__about footer-item"><div class="content-asset"><div class="footer_section_title">About</div><ul class="footer__menu"><li class="footer__menu_link"><a href="https://www.paradoxplaza.com/news" title="News">News</a></li><li class="footer__menu_link"><a href="https://www.paradoxplaza.com/about-us-static-info-ca.html" title="About us">About us</a></li><li class="footer__menu_link"><a href="http://career.paradoxplaza.com/" title="Careers">Careers</a></li><li class="footer__menu_link"><a href="https://www.paradoxplaza.com/playtest-static-info-ca.html" title="Join our playtests">Join our playtests</a></li><li class="footer__menu_link"><a href="https://www.paradoxplaza.com/press-static-info-ca.html" title="Media contact">Media contact</a></li></ul></div></div><div class="footer__socialmedia footer-item"><div class="content-asset"><div class="footer_section_title">Social Media</div><ul class="footer__socialmedia-icons"><li class="footer__social-icon"><a href="https://www.facebook.com/ParadoxInteractive" target="_blank"><span class="icon icon-facebook-with-circle"></span></a></li><li class="footer__social-icon"><a href="https://twitter.com/PdxInteractive" target="_blank"><span class="icon icon-twitter-with-circle"></span></a></li><li class="footer__social-icon"><a href="https://www.youtube.com/user/Paradoxplaza" target="_blank"><span class="icon icon-youtube-with-circle"></span></a></li><li class="footer__social-icon"><a href="https://www.twitch.tv/paradoxinteractive" target="_blank"><span class="icon icon-twitch-with-circle"></span></a></li><li class="footer__social-icon"><a href="https://www.instagram.com/explore/locations/241319129/paradox-interactive/" target="_blank"><span class="icon icon-instagram-with-circle"></span></a></li><li class="footer__social-icon"><a href="https://open.spotify.com/artist/75N2nC2KNgaQ1e6bGs0wyc" target="_blank"><span class="icon icon-spotify-with-circle"></span></a></li></ul></div><div class="hide-for-small"><div class="content-asset"><ul class="footer__menu"><li class="footer__menu_link-small"><a href="https://legal.paradoxplaza.com/" title="Terms &amp; Policies">Terms & Policies</a></li><li class="footer__menu_link-small"><a href="https://www.paradoxplaza.com/legal-static-info-ca.html" title="Legal Information">Legal Information</a></li><li class="footer__menu_link-small"><a href="https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home.chooseLanguage" title="EU Online Dispute Resolution">EU Online Dispute Resolution</a></li><li class="footer__menu_link-small"><a href="https://www.paradoxplaza.com/faq-static-info-ca.html" title="Frequently Asked Questions">Frequently Asked Questions</a></li><li class="footer__menu_link-small"><a href="http://www.paradoxinteractive.com/" title="Paradox Interactive corporate website">Paradox Interactive corporate website</a></li></ul></div></div></div><div class="footer__legal footer-item show-for-small"><div class="content-asset"><ul class="footer__menu"><li class="footer__menu_link-small"><a href="https://legal.paradoxplaza.com/" title="Terms &amp; Policies">Terms & Policies</a></li><li class="footer__menu_link-small"><a href="https://www.paradoxplaza.com/legal-static-info-ca.html" title="Legal Information">Legal Information</a></li><li class="footer__menu_link-small"><a href="https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home.chooseLanguage" title="EU Online Dispute Resolution">EU Online Dispute Resolution</a></li><li class="footer__menu_link-small"><a href="https://www.paradoxplaza.com/faq-static-info-ca.html" title="Frequently Asked Questions">Frequently Asked Questions</a></li><li class="footer__menu_link-small"><a href="http://www.paradoxinteractive.com/" title="Paradox Interactive corporate website">Paradox Interactive corporate website</a></li></ul></div></div></div></div>
+	</body>
+<!-- Cached 20210125171236 -->
+</html>
