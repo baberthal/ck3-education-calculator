@@ -1,0 +1,14 @@
+<b-form-group
+  :id="formGroupId"
+  label-cols-sm="6"
+  label-cols-lg="6"
+  content-cols-sm
+  content-cols-lg
+  label="Childhood Trait"
+  :label-for="selectBoxId">
+  <b-form-select
+    v-model="ward.childhoodTrait"
+    :options="options"
+    :id="selectBoxId">
+  </b-form-select>
+</b-form-group>
