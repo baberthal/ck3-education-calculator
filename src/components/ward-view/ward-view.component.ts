@@ -9,45 +9,24 @@ import { Component, Prop, Vue } from "vue-property-decorator";
 import WithRender from "./ward-view.template.html";
 
 import {
-  Character,
-  IntellectTrait,
-  nameOfIntellectTrait,
+  Ward,
   ChildhoodTrait,
   nameOfChildhoodTrait,
   EducationFocus,
   nameOfEducationFocus
 } from "@/models";
+import { IntellectTraitSelect } from "../intellect-trait-select";
+import { ChildhoodTraitSelect } from "../childhood-trait-select";
 
 @WithRender
-@Component
+@Component({
+  components: {
+    IntellectTraitSelect,
+    ChildhoodTraitSelect
+  }
+})
 export default class WardView extends Vue {
-  @Prop() ward!: Character;
-
-  get intellectTraitOptions() {
-    return [
-      IntellectTrait.Imbecile,
-      IntellectTrait.Stupid,
-      IntellectTrait.Slow,
-      IntellectTrait.None,
-      IntellectTrait.Quick,
-      IntellectTrait.Intelligent,
-      IntellectTrait.Genius
-    ].map(trait => {
-      return { value: trait, text: nameOfIntellectTrait(trait) };
-    });
-  }
-
-  get childhoodTraitOptions() {
-    return [
-      ChildhoodTrait.Bossy,
-      ChildhoodTrait.Charming,
-      ChildhoodTrait.Curious,
-      ChildhoodTrait.Pensive,
-      ChildhoodTrait.Rowdy
-    ].map(trait => {
-      return { value: trait, text: nameOfChildhoodTrait(trait) };
-    });
-  }
+  @Prop() ward!: Ward;
 
   get educationFocusOptions() {
     return [

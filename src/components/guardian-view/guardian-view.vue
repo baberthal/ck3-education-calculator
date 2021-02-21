@@ -96,22 +96,23 @@
       ></b-form-input>
     </b-form-group>
 
-    <b-form-group
-      id="guardian-intellect-attribute-group"
-      label-cols-sm="6"
-      label-cols-lg="6"
-      content-cols-sm
-      content-cols-lg="4"
-      label="Intellect Trait"
-      label-for="guardian-intellect-trait"
-    >
-      <b-form-select
-        v-model="guardian.intellectTrait"
-        :options="intellectTraitOptions"
-        id="guardian-intellect-trait"
-      >
-      </b-form-select>
-    </b-form-group>
+    <intellect-trait-select kind="guardian" :character="guardian" />
+    <!-- <b-form-group -->
+    <!--   id="guardian-intellect-attribute-group" -->
+    <!--   label-cols-sm="6" -->
+    <!--   label-cols-lg="6" -->
+    <!--   content-cols-sm -->
+    <!--   content-cols-lg="4" -->
+    <!--   label="Intellect Trait" -->
+    <!--   label-for="guardian-intellect-trait" -->
+    <!-- > -->
+    <!--   <b-form-select -->
+    <!--     v-model="guardian.intellectTrait" -->
+    <!--     :options="intellectTraitOptions" -->
+    <!--     id="guardian-intellect-trait" -->
+    <!--   > -->
+    <!--   </b-form-select> -->
+    <!-- </b-form-group> -->
 
     <b-form-checkbox
       id="guardian-shrewd-checkbox"
@@ -134,25 +135,16 @@
 <script lang="ts">
 import { Component, Prop, Vue } from "vue-property-decorator";
 
-import { Character, IntellectTrait, nameOfIntellectTrait } from "@/models";
+import { Character } from "@/models";
+import { IntellectTraitSelect } from "../intellect-trait-select";
 
-@Component
+@Component({
+  components: {
+    IntellectTraitSelect
+  }
+})
 export default class GuardianView extends Vue {
   @Prop() guardian!: Character;
-
-  get intellectTraitOptions() {
-    return [
-      IntellectTrait.Imbecile,
-      IntellectTrait.Stupid,
-      IntellectTrait.Slow,
-      IntellectTrait.None,
-      IntellectTrait.Quick,
-      IntellectTrait.Intelligent,
-      IntellectTrait.Genius
-    ].map(trait => {
-      return { value: trait, text: nameOfIntellectTrait(trait) };
-    });
-  }
 }
 </script>
 

@@ -1,55 +1,31 @@
 <b-card class="ward-view" bg-variant="light">
   <h2>Ward</h2>
-  <b-form-group
-    id="ward-intellect-attribute-group"
-    label-cols-sm="6"
-    label-cols-lg="6"
-    content-cols-sm
-    content-cols-lg
-    label="Intellect Trait"
-    label-for="ward-intellect-trait">
-    <b-form-select
-      v-model="ward.intellectTrait"
-      :options="intellectTraitOptions"
-      id="ward-intellect-trait">
-    </b-form-select>
+  <intellect-trait-select kind="ward" :character="ward"></intellect-trait-select>
+
+  <b-form-group id="ward-checkboxes-group">
+    <b-form-checkbox
+      id="ward-shrewd-checkbox"
+      v-model="ward.isShrewd"
+      name="ward-shrewd-checkbox">
+      Shrewd
+    </b-form-checkbox>
+
+    <b-form-checkbox
+      id="ward-dull-checkbox"
+      v-model="ward.isDull"
+      name="ward-dull-checkbox">
+      Dull
+    </b-form-checkbox>
+
+    <b-form-checkbox
+      id="ward-inbred-checkbox"
+      v-model="ward.isInbred"
+      name="ward-inbred-checkbox">
+      Inbred
+    </b-form-checkbox>
   </b-form-group>
 
-  <b-form-checkbox
-    id="ward-shrewd-checkbox"
-    v-model="ward.isShrewd"
-    name="ward-shrewd-checkbox">
-    Shrewd
-  </b-form-checkbox>
-
-  <b-form-checkbox
-    id="ward-dull-checkbox"
-    v-model="ward.isDull"
-    name="ward-dull-checkbox">
-    Dull
-  </b-form-checkbox>
-
-  <b-form-checkbox
-    id="ward-inbred-checkbox"
-    v-model="ward.isInbred"
-    name="ward-inbred-checkbox">
-    Inbred
-  </b-form-checkbox>
-
-  <b-form-group
-    id="ward-childhood-trait-group"
-    label-cols-sm="6"
-    label-cols-lg="6"
-    content-cols-sm
-    content-cols-lg
-    label="Childhood Trait"
-    label-for="ward-childhood-trait">
-    <b-form-select
-      v-model="ward.childhoodTrait"
-      :options="childhoodTraitOptions"
-      id="ward-childhood-trait">
-    </b-form-select>
-  </b-form-group>
+  <childhood-trait-select kind="ward" :ward="ward"></childhood-trait-select>
 
   <b-form-group
     id="ward-education-focus-group"
