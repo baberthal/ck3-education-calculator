@@ -17,7 +17,7 @@
 <script lang="ts">
 import { Component, Vue } from "vue-property-decorator";
 import { GuardianView, WardView } from "./components";
-import { Character } from "@/models";
+import { Guardian, Ward } from "@/models";
 
 @Component({
   components: {
@@ -26,8 +26,8 @@ import { Character } from "@/models";
   }
 })
 export default class App extends Vue {
-  guardian: Character = new Character();
-  ward: Character = new Character();
+  guardian: Guardian = new Guardian();
+  ward: Ward = new Ward();
 }
 </script>
 

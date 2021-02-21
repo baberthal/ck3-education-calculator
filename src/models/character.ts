@@ -5,7 +5,7 @@
 //
 //===-----------------------------------------------------------------------===//
 
-import { ChildhoodTrait, IntellectTrait, EducationFocus } from "./traits";
+import { IntellectTrait } from "./traits";
 
 export class Character {
   constructor() {
@@ -16,8 +16,6 @@ export class Character {
     this.learning = 0;
 
     this.intellectTrait = IntellectTrait.None;
-    this.childhoodTrait = ChildhoodTrait.Curious;
-    this.educationFocus = EducationFocus.Stewardship;
   }
 
   diplomacy: number;
@@ -26,10 +24,7 @@ export class Character {
   intrigue: number;
   learning: number;
 
-  childhoodTrait: ChildhoodTrait;
   intellectTrait: IntellectTrait;
-
-  educationFocus: EducationFocus;
 
   isShrewd = false;
   isDull = false;
