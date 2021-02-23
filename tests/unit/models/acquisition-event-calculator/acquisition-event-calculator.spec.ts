@@ -62,13 +62,13 @@ describe("AcquisitionEventCalculator", () => {
 
   describe("#successPercentageChance", () => {
     it("returns the value of #successOdds, but as a percentage", () => {
-      expect(calc.successPercentageChance).to.be.approximately(70.9, 0.001);
+      expect(calc.successPercentageChance).to.be.approximately(70.89, 0.01);
     });
   });
 
   describe("#failurePercentageChance", () => {
     it("returns the value of #failureOdds, but as a percentage", () => {
-      expect(calc.failurePercentageChance).to.be.approximately(29.1, 0.001);
+      expect(calc.failurePercentageChance).to.be.approximately(29.11, 0.01);
     });
   });
 });
