@@ -5,7 +5,7 @@
 //
 //===-----------------------------------------------------------------------===//
 
-export { AttributeInput } from "./attribute-input";
-export { GuardianAttributes } from "./guardian-attributes";
+export { ChildhoodTraitSelect } from "./childhood-trait-select";
 export { GuardianView } from "./guardian-view";
+export { IntellectTraitSelect } from "./intellect-trait-select";
 export { WardView } from "./ward-view";
