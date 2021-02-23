@@ -8,13 +8,7 @@
 import { Component, Prop, Vue } from "vue-property-decorator";
 import WithRender from "./ward-view.template.html";
 
-import {
-  Ward,
-  ChildhoodTrait,
-  nameOfChildhoodTrait,
-  EducationFocus,
-  nameOfEducationFocus
-} from "@/models";
+import { Ward, EducationFocus, nameOfEducationFocus } from "@/models";
 import { IntellectTraitSelect } from "../intellect-trait-select";
 import { ChildhoodTraitSelect } from "../childhood-trait-select";
 
