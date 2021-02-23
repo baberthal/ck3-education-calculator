@@ -8,3 +8,5 @@
 export * from "./attributes";
 export { Character } from "./character";
 export * from "./traits";
+export * from "./guardian";
+export * from "./ward";

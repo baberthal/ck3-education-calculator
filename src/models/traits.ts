@@ -58,11 +58,11 @@ export function nameOfChildhoodTrait(trait: ChildhoodTrait): string {
 }
 
 export enum EducationFocus {
-  Diplomacy,
-  Martial,
-  Stewardship,
-  Intrigue,
-  Learning
+  Diplomacy = 1,
+  Martial = 2,
+  Stewardship = 3,
+  Intrigue = 4,
+  Learning = 5
 }
 
 export function nameOfEducationFocus(focus: EducationFocus): string {

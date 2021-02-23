@@ -5,6 +5,14 @@
 //
 //===-----------------------------------------------------------------------===//
 
+export enum AttributeKind {
+  Diplomacy,
+  Martial,
+  Stewardship,
+  Intrigue,
+  Learning
+}
+
 export class Attributes {
   constructor() {
     this.diplomacy = 0;
@@ -14,11 +22,11 @@ export class Attributes {
     this.learning = 0;
   }
 
-  diplomacy!: number;
-  martial!: number;
-  stewardship!: number;
-  intrigue!: number;
-  learning!: number;
+  diplomacy: number;
+  martial: number;
+  stewardship: number;
+  intrigue: number;
+  learning: number;
 
   get total(): number {
     return (
@@ -29,6 +37,14 @@ export class Attributes {
       this.learning
     );
   }
+}
+
+export interface AttributeArguments {
+  diplomacy?: number;
+  martial?: number;
+  stewardship?: number;
+  intrigue?: number;
+  learning?: number;
 }
 
 export type AttributeNames =

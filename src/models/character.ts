@@ -5,7 +5,7 @@
 //
 //===-----------------------------------------------------------------------===//
 
-import { IntellectTrait } from "./traits";
+import { IntellectTrait, EducationFocus } from "./traits";
 
 export class Character {
   constructor() {
@@ -28,5 +28,19 @@ export class Character {
 
   isShrewd = false;
   isDull = false;
-  isInbred = false;
+
+  getAttribute(focus: EducationFocus): number {
+    switch (focus) {
+      case EducationFocus.Diplomacy:
+        return this.diplomacy;
+      case EducationFocus.Martial:
+        return this.martial;
+      case EducationFocus.Stewardship:
+        return this.stewardship;
+      case EducationFocus.Intrigue:
+        return this.intrigue;
+      case EducationFocus.Learning:
+        return this.learning;
+    }
+  }
 }
