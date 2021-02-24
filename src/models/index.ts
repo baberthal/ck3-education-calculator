@@ -6,7 +6,8 @@
 //===-----------------------------------------------------------------------===//
 
 export * from "./attributes";
-export { Character } from "./character";
+export * from "./character";
+export * from "./education-info";
 export * from "./traits";
 export * from "./guardian";
 export * from "./ward";
