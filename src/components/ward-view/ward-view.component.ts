@@ -11,12 +11,14 @@ import WithRender from "./ward-view.template.html";
 import { Ward, EducationFocus, nameOfEducationFocus } from "@/models";
 import { IntellectTraitSelect } from "../intellect-trait-select";
 import { ChildhoodTraitSelect } from "../childhood-trait-select";
+import { EducationFocusSelect } from "../education-focus-select";
 
 @WithRender
 @Component({
   components: {
     IntellectTraitSelect,
-    ChildhoodTraitSelect
+    ChildhoodTraitSelect,
+    EducationFocusSelect
   }
 })
 export default class WardView extends Vue {

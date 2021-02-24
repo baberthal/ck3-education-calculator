@@ -27,18 +27,5 @@
 
   <childhood-trait-select kind="ward" :ward="ward"></childhood-trait-select>
 
-  <b-form-group
-    id="ward-education-focus-group"
-    label-cols-sm="6"
-    label-cols-lg="6"
-    content-cols-sm
-    content-cols-lg
-    label="Education Focus"
-    label-for="ward-education-focus">
-    <b-form-select
-      v-model="ward.educationFocus"
-      :options="educationFocusOptions"
-      id="ward-education-focus">
-    </b-form-select>
-  </b-form-group>
+  <education-focus-select :ward="ward"></education-focus-select>
 </b-card>
