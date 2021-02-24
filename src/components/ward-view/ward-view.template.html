@@ -2,17 +2,20 @@
   <h2>Ward</h2>
   <intellect-trait-select kind="ward" :character="ward"></intellect-trait-select>
 
-  <b-form-group id="ward-checkboxes-group">
+  <b-form-group id="ward-checkboxes-group" v-slot="{ ariaDescribedby }">
     <b-form-checkbox
       id="ward-shrewd-checkbox"
       v-model="ward.isShrewd"
-      name="ward-shrewd-checkbox">
+      name="ward-shrewd-checkbox"
+      inline=true
+      :aria-describedby="ariaDescribedby">
       Shrewd
     </b-form-checkbox>
 
     <b-form-checkbox
       id="ward-dull-checkbox"
       v-model="ward.isDull"
+      inline=true
       name="ward-dull-checkbox">
       Dull
     </b-form-checkbox>
@@ -20,6 +23,7 @@
     <b-form-checkbox
       id="ward-inbred-checkbox"
       v-model="ward.isInbred"
+      inline=true
       name="ward-inbred-checkbox">
       Inbred
     </b-form-checkbox>
@@ -28,4 +32,27 @@
   <childhood-trait-select kind="ward" :ward="ward"></childhood-trait-select>
 
   <education-focus-select :ward="ward"></education-focus-select>
+
+  <hr>
+
+  <b-form-group
+    id="tutelage-events-group"
+    label-cols-sm="6"
+    label-cols-lg="8"
+    content-cols-sm
+    content-cols-lg
+    label="Tutelage Events"
+    label-for="tutelage-events">
+    <b-form-input
+      v-model.number="educationInfo.tutelageEvents"
+      type="number"
+      id="tutelage-events">
+    </b-form-input>
+  </b-form-group>
+
+  <b-form-group id="education-info-group">
+    <b-form-checkbox id="legacy-boost-checkbox" name="legacy-boost-checkbox" v-model="educationInfo.hasLegacyBoost">Legacy Boost</b-form-checkbox>
+    <b-form-checkbox id="ward-attended-university-checkbox" name="ward-attended-university-checkbox" v-model="ward.attendedUniversity">Attended University</b-form-checkbox>
+    <b-form-checkbox id="ward-has-no-guardian-checkbox" name="ward-has-no-guardian-checkbox" v-model="ward.hasNoGuardian">No Guardian</b-form-checkbox>
+  </b-form-group>
 </b-card>
