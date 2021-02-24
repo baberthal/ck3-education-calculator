@@ -17,6 +17,8 @@ export class Ward extends Character {
 
   childhoodTrait: ChildhoodTrait;
   educationFocus: EducationFocus;
+
   isInbred = false;
   hasNoGuardian = false;
+  attendedUniversity = false;
 }
