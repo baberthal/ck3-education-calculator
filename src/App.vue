@@ -7,7 +7,7 @@
           <guardian-view :guardian="guardian" />
         </b-col>
         <b-col>
-          <ward-view :ward="ward" />
+          <ward-view :ward="ward" :educationInfo="educationInfo" />
         </b-col>
       </b-row>
     </b-container>
@@ -17,7 +17,7 @@
 <script lang="ts">
 import { Component, Vue } from "vue-property-decorator";
 import { GuardianView, WardView } from "./components";
-import { Guardian, Ward } from "@/models";
+import { EducationInfo, Guardian, Ward } from "@/models";
 
 @Component({
   components: {
@@ -26,6 +26,7 @@ import { Guardian, Ward } from "@/models";
   }
 })
 export default class App extends Vue {
+  educationInfo: EducationInfo = new EducationInfo();
   guardian: Guardian = new Guardian();
   ward: Ward = new Ward();
 }
