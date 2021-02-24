@@ -5,6 +5,6 @@
 //
 //===-----------------------------------------------------------------------===//
 
-import { default as GuardianView } from "./guardian-view.vue";
+import { default as GuardianView } from "./guardian-view.component";
 export { GuardianView };
 export default GuardianView;

@@ -8,24 +8,15 @@
 import { Component, Prop, Vue } from "vue-property-decorator";
 import WithRender from "./guardian-view.template.html";
 
-import { Character, IntellectTrait, nameOfIntellectTrait } from "@/models";
+import { Character } from "@/models";
+import { IntellectTraitSelect } from "../intellect-trait-select";
 
 @WithRender
-@Component
+@Component({
+  components: {
+    IntellectTraitSelect
+  }
+})
 export default class GuardianView extends Vue {
   @Prop() guardian!: Character;
-
-  get intellectTraitOptions() {
-    return [
-      IntellectTrait.Imbecile,
-      IntellectTrait.Stupid,
-      IntellectTrait.Slow,
-      IntellectTrait.None,
-      IntellectTrait.Quick,
-      IntellectTrait.Intelligent,
-      IntellectTrait.Genius
-    ].map(trait => {
-      return { value: trait, text: nameOfIntellectTrait(trait) };
-    });
-  }
 }
