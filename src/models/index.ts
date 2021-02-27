@@ -11,3 +11,6 @@ export * from "./education-info";
 export * from "./traits";
 export * from "./guardian";
 export * from "./ward";
+
+export { AcquisitionEventCalculator } from "./acquisition-event-calculator";
+export { EducationProbabilityCalculator } from "./education-probability-calculator";
