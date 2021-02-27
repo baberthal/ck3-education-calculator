@@ -1,5 +1,4 @@
-<b-card class="ward-view" bg-variant="light">
-  <h2>Ward</h2>
+<b-card class="ward-view" bg-variant="light" title="Ward">
   <intellect-trait-select kind="ward" :character="ward"></intellect-trait-select>
 
   <b-form-group id="ward-checkboxes-group" v-slot="{ ariaDescribedby }">
@@ -7,7 +6,7 @@
       id="ward-shrewd-checkbox"
       v-model="ward.isShrewd"
       name="ward-shrewd-checkbox"
-      inline=true
+      inline
       :aria-describedby="ariaDescribedby">
       Shrewd
     </b-form-checkbox>
@@ -15,7 +14,7 @@
     <b-form-checkbox
       id="ward-dull-checkbox"
       v-model="ward.isDull"
-      inline=true
+      inline
       name="ward-dull-checkbox">
       Dull
     </b-form-checkbox>
@@ -23,7 +22,7 @@
     <b-form-checkbox
       id="ward-inbred-checkbox"
       v-model="ward.isInbred"
-      inline=true
+      inline
       name="ward-inbred-checkbox">
       Inbred
     </b-form-checkbox>
