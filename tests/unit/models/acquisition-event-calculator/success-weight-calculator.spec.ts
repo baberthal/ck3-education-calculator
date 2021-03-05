@@ -9,7 +9,7 @@ import { expect } from "chai";
 import { ChildhoodTrait, IntellectTrait, EducationFocus } from "@/models";
 import { SuccessWeightCalculator } from "@/models/acquisition-event-calculator";
 
-import { Guardian, Ward, createGuardian, createWard } from "./setup";
+import { Guardian, Ward, createGuardian, createWard } from "./helpers";
 
 describe("SuccessWeightCalculator", () => {
   let guardian: Guardian;

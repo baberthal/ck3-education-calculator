@@ -8,7 +8,7 @@
 import { expect } from "chai";
 import { FailureWeightCalculator } from "@/models/acquisition-event-calculator";
 import { ChildhoodTrait, EducationFocus, IntellectTrait } from "@/models";
-import { Guardian, Ward, createGuardian, createWard } from "./setup";
+import { Guardian, Ward, createGuardian, createWard } from "./helpers";
 
 describe("FailureWeightCalculator", () => {
   let guardian: Guardian;
