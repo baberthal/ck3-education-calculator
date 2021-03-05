@@ -8,6 +8,11 @@
 import { AcquisitionEventCalculator } from "../acquisition-event-calculator";
 import { binomialCoefficient } from "@/utils";
 
+export interface ProbabilityInfo {
+  n: number;
+  probability: number;
+}
+
 export class EducationProbabilityCalculator {
   readonly numberOfTrials = 9;
 
@@ -17,8 +22,15 @@ export class EducationProbabilityCalculator {
     this.acquisitionEventCalculator = aec;
   }
 
-  get probabilities(): number[] {
-    return [1, 2, 3, 4, 5, 6, 7, 8, 9].map(n => this.probabilityOf(n));
+  get probabilities(): ProbabilityInfo[] {
+    const result: ProbabilityInfo[] = [];
+
+    for (let i = 1; i <= this.numberOfTrials; i++) {
+      const probability = this.probabilityOf(i);
+      result.push({ n: i, probability });
+    }
+
+    return result;
   }
 
   get probabilityOfSuccess(): number {
